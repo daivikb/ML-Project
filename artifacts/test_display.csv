@@ -1,0 +1,1053 @@
+year,make,model,VClass,trany,drive,fuelType1,comb08
+1984,Toyota,Corolla,Compact Cars,Manual 5-spd,,Regular Gasoline,29
+1985,Ford,Escort,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+1988,Nissan,200SX,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+1997,BMW,318ti,Compact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,23
+1985,Isuzu,Impulse,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,20
+1993,Mazda,626,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+1994,Saab,900,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1993,Mitsubishi,Expo.LRV,Midsize-Large Station Wagons,Automatic 4-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,20
+1992,Volkswagen,Corrado,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1990,Subaru,Justy 4WD,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,27
+1995,Ford,Probe,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2012,Volkswagen,Beetle,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,24
+1994,Ford,Aspire,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,27
+2023,MINI,Cooper S Clubman,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,25
+1984,Pontiac,Phoenix,Midsize Cars,Automatic 3-spd,,Regular Gasoline,23
+1988,Mitsubishi,Starion,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1990,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2005,Volkswagen,GTI,Compact Cars,Automatic (S5),Front-Wheel Drive,Premium Gasoline,22
+2017,Mazda,3 5-Door,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,30
+1984,Renault,Alliance/Encore,Compact Cars,Manual 5-spd,,Regular Gasoline,30
+1984,Ford,Escort,Compact Cars,Automatic 3-spd,,Regular Gasoline,24
+1989,Dodge,Colt,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,26
+2024,MINI,Cooper Countryman,Midsize Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,28
+2008,Scion,xD,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,28
+2010,Scion,tC,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1985,Toyota,Tercel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1988,Mcevoy Motors,240 DL/240 GL Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+2005,Honda,Civic,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+2003,Volvo,V70 AWD,Midsize Station Wagons,Automatic (S5),4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2014,Fiat,500,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,30
+1985,Chevrolet,Citation II,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+1984,Nissan,Stanza,Compact Cars,Manual 5-spd,,Regular Gasoline,26
+1994,Ford,Aspire,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+2005,Volkswagen,Golf,Compact Cars,Automatic (S5),Front-Wheel Drive,Diesel,32
+1985,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2015,Mazda,3 5-Door,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,29
+2001,Volkswagen,Golf,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,22
+1988,Saab,900,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1985,Volkswagen,Golf/GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2020,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,30
+2022,MINI,Cooper S Countryman,Midsize Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,28
+2018,Mazda,CX-3 2WD,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+1991,Volvo,240 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+2018,BMW,640i xDrive Gran Turismo,Large Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,23
+1985,Mitsubishi,Cordia,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+1990,Plymouth,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2022,Volkswagen,GTI,Midsize Cars,Automatic (AM7),Front-Wheel Drive,Regular Gasoline,28
+2006,Saab,9-2x Wagon AWD,Small Station Wagons,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1995,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+2018,Audi,Q3,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,23
+2004,Scion,xA,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1989,Chevrolet,Corsica,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+2003,Pontiac,Vibe,Small Station Wagons,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,24
+2000,Daewoo,Lanos,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1986,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2017,MINI,Cooper S Countryman All4,Midsize Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,24
+2005,Toyota,Celica,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Premium Gasoline,24
+2023,Porsche,Panamera 4 Executive,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,19
+2017,Audi,Q3 quattro,Compact Cars,Automatic (S6),All-Wheel Drive,Premium Gasoline,23
+1987,Nissan,Sentra,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2020,Audi,S5 Sportback,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,23
+1992,Subaru,Justy,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+2018,Ford,Focus FWD,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1989,Honda,Accord,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+2013,Ford,Fiesta FWD,Subcompact Cars,Automatic (AM6),Front-Wheel Drive,Regular Gasoline,32
+1993,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1989,Acura,Integra,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2008,Toyota,Prius,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,46
+1987,Porsche,944,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,21
+1993,Pontiac,Lemans,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1992,Geo,Metro XFI,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,47
+2012,Toyota,Yaris,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,33
+1987,Isuzu,Impulse,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+2020,BMW,X1 sDrive28i,Large Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,27
+2024,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,31
+1992,Ford,Festiva,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+2020,BMW,X2 M35i,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+1996,Honda,Accord Wagon,Small Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1993,Eagle,Talon,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2003,Ford,Focus,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1985,Ford,Mustang,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1999,Volkswagen,GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1998,Volvo,V70 FWD,Midsize Station Wagons,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,20
+1988,Nissan,Sentra,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,28
+2019,Toyota,Prius Prime,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,54
+2005,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1985,Mitsubishi,Starion,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,19
+2000,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1990,Pontiac,Firebird/Trans Am,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+1990,Subaru,Loyale,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2018,MINI,Cooper Countryman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,25
+2017,Toyota,Corolla iM,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,30
+1993,Mitsubishi,Expo.LRV,Midsize-Large Station Wagons,Manual 5-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,19
+1991,Plymouth,Laser,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1986,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1999,Acura,Integra,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1985,Toyota,Celica,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,24
+2019,Chevrolet,Cruze Premier Hatchback,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+2016,Volkswagen,Beetle Dune,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,27
+2016,Hyundai,Accent,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,30
+2001,Volkswagen,New Beetle,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Diesel,33
+2022,BMW,X1 sDrive28i,Large Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,27
+2010,Volvo,C30 FWD,Compact Cars,Automatic (S5),Front-Wheel Drive,Regular Gasoline,24
+1989,Merkur,XR4Ti,Compact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,17
+1995,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+2004,Mazda,3,Compact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,26
+2023,Honda,Civic 5Dr,Large Cars,Automatic (AV-S7),Front-Wheel Drive,Regular Gasoline,32
+1991,Mazda,626/MX-6,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+1988,Subaru,Sedan/3 Door,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+1990,Chevrolet,Corsica,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+1989,Dodge,Lancer,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,19
+1988,Chevrolet,Turbo Sprint,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+2022,Mitsubishi,Mirage,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,39
+2010,Nissan,Versa,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,28
+1984,Chevrolet,Cavalier,Compact Cars,Automatic 3-spd,,Regular Gasoline,25
+1986,Saab,9000,Large Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+2016,Nissan,Versa,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1988,Mitsubishi,Mirage,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,27
+2022,Audi,A5 Sportback quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,29
+2019,Toyota,Corolla Hatchback,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,31
+1995,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,36
+1998,Mitsubishi,3000 GT,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1986,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,20
+1998,Daewoo,Lanos,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+1984,Nissan,300ZX,Two Seaters,Automatic 4-spd,,Regular Gasoline,17
+1984,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,22
+1985,Pontiac,1000,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,26
+1989,Hyundai,Excel,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+2024,Audi,A7 quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,25
+1994,Mitsubishi,3000 GT,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+1990,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,20
+1991,Ford,Escort,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,25
+1992,Mitsubishi,Mirage,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,25
+2006,Volkswagen,Golf,Compact Cars,Automatic (S5),Front-Wheel Drive,Diesel,32
+1994,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2017,MINI,Cooper Clubman All4,Midsize Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,26
+1984,Nissan,200SX,Subcompact Cars,Manual 5-spd,,Regular Gasoline,22
+1988,Mitsubishi,Mirage,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+2000,Suzuki,Swift,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+1989,Plymouth,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1992,Hyundai,Excel,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+1992,Subaru,Justy,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+2007,Suzuki,Aerio AWD,Compact Cars,Automatic 4-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,23
+2023,Toyota,Corolla Hatchback XSE,Compact Cars,Automatic (AV-S10),Front-Wheel Drive,Regular Gasoline,33
+1984,Mercury,Capri,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,19
+1990,Subaru,Loyale,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+2015,BMW,X1 xDrive28i,Large Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+1994,Nissan,300ZX 2x2,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+1985,Chevrolet,Chevette,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,27
+1984,Plymouth,Horizon,Compact Cars,Manual 5-spd,,Regular Gasoline,26
+2016,Dodge,Dart,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,29
+2001,Mitsubishi,Eclipse,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,20
+1995,Volvo,850 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+2007,Volvo,V70 R AWD,Midsize Station Wagons,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2000,Audi,TT Coupe,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+1996,Hyundai,Elantra Wagon,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1994,Honda,Accord Wagon,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2010,Volkswagen,Golf,Compact Cars,Manual 6-spd,Front-Wheel Drive,Diesel,32
+1990,Subaru,Justy,Subcompact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,30
+1984,Plymouth,Horizon,Compact Cars,Manual 4-spd,,Regular Gasoline,30
+1986,Toyota,Corolla Sport,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,25
+1998,Volkswagen,New Beetle,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+2007,Volvo,V70 AWD,Midsize Station Wagons,Automatic (S5),4-Wheel or All-Wheel Drive,Premium Gasoline,21
+2024,Toyota,Prius Prime SE,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,52
+2025,Mazda,3 5-Door 4WD,Midsize Cars,Automatic (S6),4-Wheel Drive,Regular Gasoline,26
+1986,Pontiac,Firebird,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,24
+2001,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1985,Chrysler,LeBaron GTS,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,19
+1987,Pontiac,1000,Subcompact Cars,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,27
+2014,BMW,328i xDrive Gran Turismo,Large Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+1985,Chrysler,LeBaron GTS,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+1994,Plymouth,Sundance/Duster,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+2016,Audi,A7 quattro,Midsize Cars,Automatic (S8),All-Wheel Drive,Diesel,30
+1993,Plymouth,Colt Vista,Midsize-Large Station Wagons,Manual 5-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,21
+2014,Scion,tC,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,26
+1991,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1996,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2010,Dodge,Caliber,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1985,Subaru,Hatchback,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2002,Daewoo,Nubira,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2005,Mitsubishi,Eclipse,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Premium Gasoline,21
+2019,Chevrolet,Cruze Hatchback,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,32
+2020,BMW,X2 sDrive28i,Midsize Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,27
+2012,Kia,Forte,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,28
+2004,Suzuki,Aerio,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1989,Dodge,Lancer,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1990,Geo,Metro LSI,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2001,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+2000,Volvo,V70 FWD,Midsize Station Wagons,Automatic 5-spd,Front-Wheel Drive,Premium Gasoline,21
+2007,Toyota,Prius,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,46
+2013,Suzuki,SX4 AWD,Subcompact Cars,Manual 6-spd,All-Wheel Drive,Regular Gasoline,25
+1984,Mercury,Lynx,Compact Cars,Manual 5-spd,,Regular Gasoline,24
+1990,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1984,Chevrolet,Cavalier,Compact Cars,Manual 5-spd,,Regular Gasoline,25
+1986,Isuzu,I-Mark,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,29
+2019,Toyota,C-HR,Compact Cars,Automatic (AV-S7),Front-Wheel Drive,Regular Gasoline,29
+2013,Kia,Rio,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,32
+1986,Hyundai,Pony Excel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,26
+2004,Honda,Civic,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+1984,Toyota,Camry,Compact Cars,Automatic 4-spd,,Regular Gasoline,26
+1989,Saab,900,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1985,Dodge,Omni,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+2023,MINI,Cooper Hardtop 2 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,31
+1987,Mitsubishi,Mirage,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,27
+1984,Honda,Civic,Subcompact Cars,Manual 5-spd,,Regular Gasoline,29
+1997,Geo,Metro,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+1986,Dodge,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+2003,Pontiac,Vibe AWD,Small Station Wagons,Automatic 4-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,25
+1985,Plymouth,Turismo,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+2022,Hyundai,Ioniq Plug-in Hybrid,Midsize Cars,Automatic (AM-S6),Front-Wheel Drive,Regular Gasoline,52
+2019,Mitsubishi,Mirage,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,36
+2019,Chevrolet,Cruze Hatchback,Midsize Cars,Automatic 9-spd,Front-Wheel Drive,Diesel,35
+2007,Scion,tC,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2021,Mazda,3 5-Door 2WD,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,29
+1996,Ford,Aspire,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+2010,Volkswagen,New Beetle,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,23
+1985,Ford,Laser,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,26
+1996,Geo,Metro,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,35
+1995,Saab,900,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1990,Saab,900,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1992,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2000,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1985,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1987,Renault,Alliance,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,25
+2002,Ford,Focus,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,25
+1988,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1997,Volkswagen,GTI VR6,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+1991,Wallace Environmental,Wetl 300 TE,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,15
+2014,MINI,Cooper Clubman,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,29
+2023,Honda,Civic 5Dr,Large Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,35
+1993,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2006,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,34
+2024,Volkswagen,GTI,Compact Cars,Automatic (AM-S7),Front-Wheel Drive,Regular Gasoline,27
+2012,Acura,TSX Wagon,Small Station Wagons,Automatic (S5),Front-Wheel Drive,Premium Gasoline,24
+2018,Toyota,Prius Prime,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,54
+1989,Mitsubishi,Mirage,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+1984,Mercury,Capri,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,17
+1991,Nissan,300ZX 2x2,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,19
+2001,Volkswagen,GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+1999,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2015,Ford,Fiesta ST FWD,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,29
+1989,Toyota,Tercel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,33
+2016,MINI,Cooper Countryman,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,27
+1994,Honda,Accord Wagon,Small Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+1994,Ford,Probe,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2016,MINI,Cooper S Countryman,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,28
+2013,Scion,xD,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1993,Ford,Festiva,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,33
+1986,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1991,Pontiac,Lemans,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,26
+1990,Dodge,Colt,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1985,Mitsubishi,Starion,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+2025,Porsche,Panamera 4 e-Hybrid,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,21
+1989,Volkswagen,Golf,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2002,Honda,Civic,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1991,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2023,Lexus,UX 250h AWD,Compact Cars,Automatic (AV-S6),All-Wheel Drive,Regular Gasoline,39
+1999,BMW,318ti,Compact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,24
+1994,Mitsubishi,3000 GT,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+2024,MINI,JCW Countryman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2009,Chevrolet,Aveo 5,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1999,Mitsubishi,Galant,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2022,Porsche,Panamera 4S E-Hybrid/Exec/ST,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,22
+2023,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,25
+2016,MINI,JCW Countryman All4,Compact Cars,Automatic (S6),All-Wheel Drive,Premium Gasoline,26
+2013,Mazda,3 DI 5-Door,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+2006,Mazda,3,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2023,Porsche,Panamera,Large Cars,Automatic (AM-S8),Rear-Wheel Drive,Premium Gasoline,20
+1992,Volvo,940 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2021,Audi,A5 Sportback quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,28
+1985,Mitsubishi,Starion,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,19
+2009,Mitsubishi,Lancer Sportback,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2017,BMW,X1 sDrive28i,Large Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,26
+2022,Audi,S7,Midsize Cars,Automatic (S8),4-Wheel Drive,Premium Gasoline,22
+1986,Volvo,240 DL/240 GL Wagon,Midsize-Large Station Wagons,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,22
+1994,Mitsubishi,Expo.LRV,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2005,Mitsubishi,Eclipse,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,21
+2020,MINI,Cooper Countryman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,27
+2002,Lexus,IS 300,Compact Cars,Automatic (S5),Rear-Wheel Drive,Premium Gasoline,18
+2007,Chevrolet,Optra 5,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1992,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1989,Nissan,Stanza,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1995,Volkswagen,GTI VR6,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+2023,Toyota,Prius AWD XLE/LTD,Midsize Cars,Automatic (variable gear ratios),Part-time 4-Wheel Drive,Regular Gasoline,49
+2021,Volkswagen,Golf,Compact Cars,Automatic (S8),Front-Wheel Drive,Regular Gasoline,32
+1999,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2016,MINI,Cooper Paceman,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,29
+2013,Dodge,Dart Aero,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,32
+1986,Mercury,Capri,Subcompact Cars,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,23
+1988,Chrysler,LeBaron GTS,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,20
+1987,Isuzu,I-Mark,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1986,Renault,Alliance/Encore,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,25
+1986,Oldsmobile,Firenza,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2017,Hyundai,Elantra GT,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,27
+2009,Saturn,Astra 2DR Hatchback,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1990,Dodge,Daytona,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,18
+1984,Nissan,300ZX,Two Seaters,Automatic 4-spd,,Regular Gasoline,18
+2000,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,38
+2026,Ferrari,Purosangue,Compact Cars,Automatic (AM8),All-Wheel Drive,Premium Gasoline,12
+1989,Chrysler,Conquest,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+2018,Infiniti,QX30 AWD,Compact Cars,Automatic (AM7),All-Wheel Drive,Premium Gasoline,25
+1993,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1984,Dodge,Daytona,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,19
+1985,Chevrolet,Citation II,Midsize Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,25
+2011,Hyundai,Accent,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1989,Volvo,740 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2013,Toyota,Prius c,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,50
+1996,Isuzu,Oasis,Midsize-Large Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+1987,Porsche,944,Minicompact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,19
+1996,Hyundai,Elantra Wagon,Small Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+2004,Mazda,3,Compact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,26
+1987,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1986,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,22
+2024,Audi,S5 Sportback,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,23
+1986,Chrysler,LeBaron GTS,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2023,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,27
+1984,Plymouth,Colt,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,26
+1987,Mazda,323,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1991,Chevrolet,Sprint,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2011,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1992,Mitsubishi,3000 GT,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+2019,MINI,Cooper Hardtop 2 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,32
+1995,Mitsubishi,3000 GT,Subcompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+2009,Dodge,Caliber,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2003,Volvo,V70 FWD,Midsize Station Wagons,Automatic 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2001,Daewoo,Lanos,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1989,Ford,Mustang,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,21
+1984,Mercury,Lynx,Compact Cars,Manual 5-spd,,Diesel,34
+1985,Renault,Fuego,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+2020,Audi,Q3 quattro,Small Sport Utility Vehicle 4WD,Automatic (S8),All-Wheel Drive,Regular Gasoline,22
+1989,Chrysler,LeBaron GTS,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+2012,MINI,Cooper S Clubman,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,28
+2018,MINI,Cooper Hardtop 4 door,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,30
+1989,Dodge,Lancer,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1993,Plymouth,Sundance/Duster,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+1989,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1998,Toyota,Supra,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,19
+1995,Porsche,968,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1985,Ford,Escort,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,33
+1985,Ford,Mustang,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,17
+1998,Volkswagen,GTI VR6,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+1984,Ford,Laser,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,26
+2012,Ford,Focus SFE FWD,Compact Cars,Automatic (AM6),Front-Wheel Drive,Regular Gasoline,32
+2024,MINI,John Cooper Works Clubman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2017,Chevrolet,Volt,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,42
+2019,BMW,X2 xDrive28i,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,25
+2018,Nissan,Versa,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1989,Toyota,Celica,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2010,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1993,Saab,900,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,18
+2019,Toyota,Corolla Hatchback XSE,Compact Cars,Automatic (AV-S10),Front-Wheel Drive,Regular Gasoline,33
+2019,MINI,John Cooper Works Hardtop,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,26
+1990,Volkswagen,Golf/GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1984,Chevrolet,Camaro,Subcompact Cars,Manual 5-spd,,Regular Gasoline,22
+1986,Pontiac,Sunburst,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,29
+1988,Toyota,Supra,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+1984,Mercury,Lynx,Compact Cars,Manual 4-spd,,Regular Gasoline,27
+2014,MINI,Cooper S Countryman All4,Compact Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,27
+2017,Ford,Focus FWD,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Regular Gasoline,29
+1989,Yugo,GV/GVX,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1984,Toyota,Tercel,Subcompact Cars,Manual 4-spd,,Regular Gasoline,32
+1986,Volkswagen,GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1995,Ford,Probe,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1986,Nissan,300ZX,Two Seaters,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2015,MINI,Cooper S Paceman,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,28
+1992,Suzuki,Swift,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2018,Audi,S5 Sportback,Midsize Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,24
+2013,BMW,X1 sDrive28i,Large Cars,Automatic (S8),Rear-Wheel Drive,Premium Gasoline,27
+1984,Dodge,Charger,Subcompact Cars,Manual 5-spd,,Regular Gasoline,24
+2003,Volvo,XC90 FWD,Sport Utility Vehicle - 2WD,Automatic (S5),Front-Wheel Drive,Premium Gasoline,18
+2014,Mazda,3 5-Door,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,32
+2011,Scion,tC,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,25
+1992,Isuzu,Impulse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+1995,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2013,Volkswagen,GTI,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Premium Gasoline,27
+1984,Toyota,Celica,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,22
+1990,Volvo,740 16-Valve Wagon,Midsize-Large Station Wagons,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+1984,Nissan,300ZX 2x2,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,17
+1990,Mazda,323/323 Protege,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1997,Volkswagen,Golf/GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,37
+2024,Audi,A5 Sportback quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,30
+1999,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2009,Dodge,Caliber,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1985,Pontiac,1000,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Diesel,36
+1986,Ford,Laser,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,24
+1991,Toyota,Supra,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+1985,Pontiac,Firebird,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+2018,Nissan,Versa,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1986,Pontiac,Sunbird,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1986,Plymouth,Colt,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,33
+1989,Nissan,300ZX,Two Seaters,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+2024,Honda,Civic 5Dr,Large Cars,Automatic (AV-S7),Front-Wheel Drive,Regular Gasoline,33
+2012,Audi,TT Coupe quattro,Subcompact Cars,Automatic (S6),All-Wheel Drive,Premium Gasoline,26
+1991,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,20
+2002,Mercedes-Benz,C230 Kompressor,Compact Cars,Automatic 5-spd,Rear-Wheel Drive,Premium Gasoline,21
+2010,Scion,tC,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+1994,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,28
+1987,Toyota,Supra,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1989,Porsche,928 S4,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,15
+1984,Honda,Civic,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,25
+2022,Mazda,3 5-Door 2WD,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,27
+1997,Eagle,Talon,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1989,Pontiac,Firebird/Trans Am,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+2017,Subaru,Forester AWD,Small Sport Utility Vehicle 4WD,Automatic (AV-S8),All-Wheel Drive,Premium Gasoline,25
+1989,Dodge,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1985,Ford,Escort,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,27
+2000,Ford,Focus,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2015,Volkswagen,Golf,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Diesel,35
+1994,Mazda,323,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,25
+1997,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+1995,Honda,Accord Wagon,Small Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1988,Subaru,Sedan/3Door 4WD Turbo,Compact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,20
+1993,Eagle,Talon,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1989,Daihatsu,Charade,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+1990,Pontiac,Firebird/Trans Am,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1992,Plymouth,Colt,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1984,Pontiac,2000 Sunbird,Compact Cars,Automatic 3-spd,,Regular Gasoline,20
+1992,Plymouth,Sundance/Duster,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+1987,Chevrolet,Chevette CS,Subcompact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,24
+2014,Volkswagen,Beetle,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2015,Chevrolet,Sonic 5,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,28
+2011,MINI,Clubman,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,30
+1986,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2006,Suzuki,Aerio,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2015,Fiat,500,Minicompact Cars,Automatic 6-spd,Front-Wheel Drive,Premium Gasoline,27
+1986,Toyota,Camry,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1989,Pontiac,Firebird/Trans Am,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+2004,Suzuki,Aerio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2011,MINI,Cooper Countryman,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,30
+1987,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,35
+1992,Chevrolet,Sprint,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,33
+2002,Volkswagen,Golf,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Diesel,33
+1985,Plymouth,Horizon,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,30
+1990,Dodge,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1992,Toyota,Supra,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1989,Nissan,Sentra,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,25
+1994,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+1988,Plymouth,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2007,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2016,Mazda,3 5-Door,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,32
+2010,Audi,TT Coupe quattro,Subcompact Cars,Automatic (S6),All-Wheel Drive,Premium Gasoline,24
+1991,Mitsubishi,Mirage,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1992,Plymouth,Laser,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1984,Toyota,Starlet,Minicompact Cars,Manual 4-spd,,Regular Gasoline,34
+1997,Mitsubishi,Galant,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1987,Chevrolet,Cavalier,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,20
+1991,Plymouth,Laser,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1984,Plymouth,Colt,Subcompact Cars,Manual 4-spd Doubled,,Regular Gasoline,25
+2007,Kia,Spectra,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1988,Pontiac,Turbo Firefly,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+1986,Toyota,Tercel,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1994,Plymouth,Laser,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2018,MINI,Cooper Clubman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2012,Nissan,Versa,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,27
+1985,Plymouth,Colt,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,22
+2019,Mazda,CX-3 2WD,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+1989,Volvo,740 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+2010,Volkswagen,GTI,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,27
+1988,Daihatsu,Charade,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+2020,MINI,Cooper S Clubman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+1989,Volvo,740 Wagon,Midsize-Large Station Wagons,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,20
+1985,Pontiac,Sunbird,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,19
+1986,Toyota,Camry,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Diesel,29
+1984,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,,Regular Gasoline,24
+1986,Buick,Skyhawk,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1991,Mercury,Tracer,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1988,Hyundai,Excel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,26
+1996,Dodge,Stealth,Subcompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+2005,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1984,Mitsubishi,Precis,Subcompact Cars,Manual 4-spd Doubled,,Regular Gasoline,31
+2003,Volkswagen,New Beetle,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Diesel,33
+2016,Kia,Forte 5,Large Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,28
+1990,Volvo,740 16-Valve Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+1989,Nissan,300ZX,Two Seaters,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,18
+1985,Plymouth,Horizon,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+1984,Plymouth,Horizon,Compact Cars,Automatic 3-spd,,Regular Gasoline,21
+2000,Acura,Integra,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2015,MINI,Cooper S Paceman All4,Compact Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,27
+2004,Volvo,XC90 FWD,Sport Utility Vehicle - 2WD,Automatic (S5),Front-Wheel Drive,Premium Gasoline,19
+1991,Plymouth,Sundance,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2016,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+2026,Toyota,Corolla Hatchback,Compact Cars,Automatic (AV-S10),Front-Wheel Drive,Regular Gasoline,35
+2017,Mitsubishi,Mirage,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,39
+1995,Saab,900,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1985,Ford,Escort,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,27
+1984,Mitsubishi,Precis,Subcompact Cars,Manual 4-spd Doubled,,Regular Gasoline,25
+2021,Porsche,Panamera GTS,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,17
+1984,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,19
+1985,Dodge,Lancer,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1995,Saab,9000,Large Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1995,Ford,Probe,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2004,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1991,Eagle,Talon,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,20
+1998,Toyota,Supra,Minicompact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,18
+1993,Nissan,240SX,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,22
+1991,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+2025,Honda,Civic 5Dr,Large Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,48
+1992,Ford,Mustang,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,21
+2016,Kia,Rio Eco,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+2012,Kia,Forte,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,26
+1984,Chrysler,Laser/Daytona,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,19
+1984,Nissan,300ZX,Two Seaters,Manual 5-spd,,Regular Gasoline,20
+1992,Volvo,240 Wagon,Midsize-Large Station Wagons,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,22
+2010,Dodge,Caliber,Small Station Wagons,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,25
+1992,Dodge,Stealth,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,18
+1988,Chrysler,LeBaron GTS,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,23
+1986,Chevrolet,Sprint Plus,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2018,Honda,Civic 5Dr,Large Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,34
+1996,Mazda,MX-3,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1989,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1997,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1999,Mitsubishi,Eclipse Convertible,Minicompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1989,Isuzu,I-Mark,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,33
+2012,Kia,Rondo,Midsize Station Wagons,Automatic 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1988,Chevrolet,Nova,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2017,Chevrolet,Cruze Hatchback,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,32
+1998,Mitsubishi,3000 GT,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1993,Honda,Civic HB VX,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+1991,Plymouth,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1988,Acura,Integra,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+1985,Toyota,Corolla Sport,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,26
+1989,Dodge,Omni,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+2023,Porsche,Panamera 4,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,20
+1991,Suzuki,Swift,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+1985,Mercury,Lynx,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1994,Plymouth,Sundance/Duster,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+1996,Pontiac,Firebird/Formula,Subcompact Cars,Manual 6-spd,Rear-Wheel Drive,Regular Gasoline,18
+1993,Saab,9000,Large Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+1994,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1991,Geo,Prizm,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2016,Dodge,Dart Aero,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,32
+1993,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+1987,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+1998,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1999,Mitsubishi,3000 GT,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+2019,MINI,Cooper S Countryman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2002,Volkswagen,GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+1988,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1990,Mitsubishi,Mirage,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1993,Geo,Metro,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2005,Ford,Focus,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+2017,MINI,Cooper Countryman,Midsize Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,28
+1997,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1989,Nissan,240SX,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,20
+2005,Honda,Civic,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,32
+1985,Subaru,Hatchback,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1984,Toyota,Celica Supra,Subcompact Cars,Manual 5-spd,,Regular Gasoline,18
+2019,Fiat,500 Abarth,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,30
+1999,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1987,Subaru,Hatchback,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+2025,Volkswagen,GTI,Compact Cars,Automatic (AM-S7),Front-Wheel Drive,Regular Gasoline,27
+1990,Plymouth,Sundance,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+2012,Ford,Focus FWD,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Regular Gasoline,30
+1987,Renault,Alliance,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1985,Nissan,300ZX 2x2,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,17
+1989,Dodge,Omni,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+2001,Volkswagen,GTI,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,22
+2012,MINI,Cooper S Clubman,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,30
+2001,Chevrolet,Metro,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+1992,Geo,Metro LSI,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+1987,Subaru,Sedan/3 Door,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+1985,Chevrolet,Chevette,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,26
+2019,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,26
+1990,Nissan,300ZX 2x2,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,19
+2007,Saab,9-3 SportCombi,Small Station Wagons,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,19
+1984,Plymouth,Conquest,Subcompact Cars,Manual 5-spd,,Regular Gasoline,19
+1997,Mitsubishi,3000 GT,Subcompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+2016,Hyundai,Elantra GT,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,27
+2017,Volkswagen,Golf,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,29
+2022,BMW,X2 sDrive28i,Midsize Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,27
+1984,Ford,Escort,Compact Cars,Manual 5-spd,,Diesel,34
+1991,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2006,Kia,Rio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1984,Nissan,Sentra,Subcompact Cars,Manual 4-spd,,Diesel,40
+1987,Buick,Skyhawk,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+2018,Chevrolet,Cruze Hatchback,Midsize Cars,Automatic 9-spd,Front-Wheel Drive,Diesel,35
+1989,Chrysler,LeBaron GTS,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+2003,Volvo,V40,Small Station Wagons,Automatic 5-spd,Front-Wheel Drive,Premium Gasoline,22
+1990,Plymouth,Sundance,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1991,Pontiac,Firefly,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+2024,MINI,John Cooper Works Hardtop 2 door,Subcompact Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,29
+2014,Mitsubishi,Mirage,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,36
+1999,Mercedes-Benz,E320 Wagon 4Matic,Midsize Station Wagons,Automatic 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,20
+1992,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+2012,Scion,iQ,Minicompact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,37
+1987,Mercury,Lynx,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2003,Lexus,IS 300,Compact Cars,Automatic (S5),Rear-Wheel Drive,Premium Gasoline,18
+1991,Dodge,Stealth,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,19
+2007,Mazda,6,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,20
+1989,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1989,Ford,Mustang,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,22
+2016,Ford,Focus FWD FFV,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+2010,Mazda,3,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1991,Subaru,Justy 4WD,Subcompact Cars,Automatic (variable gear ratios),4-Wheel or All-Wheel Drive,Regular Gasoline,27
+2004,Kia,Rio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2004,Toyota,Celica,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Premium Gasoline,24
+1996,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1984,Chevrolet,Cavalier,Compact Cars,Manual 4-spd,,Regular Gasoline,27
+1988,Pontiac,Firefly,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,39
+1987,Nissan,300ZX,Two Seaters,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+2017,Chevrolet,Cruze Premier Hatchback,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+1993,Pontiac,Lemans,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,28
+1993,Eagle,Talon,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2005,Acura,RSX,Subcompact Cars,Automatic (S5),Front-Wheel Drive,Regular Gasoline,25
+1995,Mitsubishi,3000 GT,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1986,Pontiac,Sunbird,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1985,Honda,Accord,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1992,Mazda,MX-3,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1985,Mercury,Capri,Subcompact Cars,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,23
+1985,Chevrolet,Cavalier,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2002,Audi,TT Coupe quattro,Minicompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1985,Chrysler,LeBaron GTS,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+1994,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,36
+1986,Chevrolet,Chevette CS,Subcompact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,24
+1991,Mitsubishi,Precis,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,27
+1993,Mitsubishi,Expo.LRV,Midsize-Large Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1997,Hyundai,Tiburon (Coupe),Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1994,Plymouth,Colt Vista,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1986,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,21
+2009,Hyundai,Accent,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,29
+2006,Mitsubishi,Eclipse,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,22
+1986,Mercury,Capri,Subcompact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,19
+1990,Ford,Probe,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+2010,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2015,Ford,Fiesta SFE FWD,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,35
+1984,Oldsmobile,Firenza,Compact Cars,Manual 5-spd,,Regular Gasoline,26
+1987,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1990,Mazda,626/MX-6,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+1989,Mitsubishi,Precis,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,26
+1993,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+2014,MINI,JCW Countryman All4,Compact Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,27
+2021,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,27
+2016,Toyota,Yaris,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,32
+2004,Scion,xA,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,30
+1994,Dodge,Stealth,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+2006,Volkswagen,Rabbit,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,22
+1987,Dodge,Charger,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1993,Geo,Metro LSI,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,33
+2010,MINI,Clubman,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,31
+1990,Dodge,Daytona,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+1995,Toyota,Supra,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+1998,Eagle,Talon,Subcompact Cars,Automatic 4-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2023,Audi,A5 Sportback quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,28
+1998,Volvo,V90,Small Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1996,Nissan,300ZX 2x2,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+2024,Toyota,Prius AWD XLE/LTD,Midsize Cars,Automatic (variable gear ratios),Part-time 4-Wheel Drive,Regular Gasoline,49
+2007,Kia,Rio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1991,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1987,Mitsubishi,Cordia,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2013,Dodge,Dart,Midsize Cars,Automatic (AM6),Front-Wheel Drive,Premium Gasoline,30
+2013,Volkswagen,Golf,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Diesel,32
+2009,Nissan,Versa,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1989,Toyota,Celica,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+1985,Nissan,300ZX,Two Seaters,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,17
+2000,Toyota,Celica,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+2002,Volkswagen,Golf,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2005,Volvo,V50 AWD,Small Station Wagons,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,20
+1989,Geo,Metro LSI,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,34
+1990,Mazda,323/323 Protege,Compact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,23
+2018,MINI,Cooper Countryman All4,Midsize Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,26
+1984,Mitsubishi,Cordia,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,23
+1990,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1992,Dodge,Colt,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1991,Pontiac,Firefly,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,33
+1994,Mitsubishi,Expo.LRV,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1989,Ford,Laser,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,25
+2020,MINI,Cooper Hardtop 2 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,31
+1988,Nissan,200SX,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,22
+1999,Isuzu,Oasis,Midsize Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1987,Pontiac,Firebird/Trans Am/Formula,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+2023,Audi,S5 Sportback,Midsize Cars,Automatic (S8),4-Wheel Drive,Premium Gasoline,24
+1985,Dodge,Omni,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+1984,Toyota,Starlet,Minicompact Cars,Manual 4-spd,,Regular Gasoline,34
+2014,Volkswagen,GTI,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Premium Gasoline,27
+2015,MINI,Cooper S (5-doors),Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,27
+1999,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,27
+1999,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,27
+2012,Scion,tC,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,25
+2008,Mazda,Speed 3,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,20
+1997,Eagle,Talon,Subcompact Cars,Automatic 4-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+1992,Mazda,MX-3,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1984,Chevrolet,Camaro,Subcompact Cars,Manual 5-spd,,Regular Gasoline,15
+2000,Audi,TT Coupe quattro,Minicompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+2002,Daewoo,Lanos,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1998,Daewoo,Lanos,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,25
+2004,Volkswagen,Golf,Compact Cars,Automatic (S5),Front-Wheel Drive,Diesel,32
+2017,MINI,Cooper Countryman,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,28
+2003,Mercedes-Benz,G500,Sport Utility Vehicle - 4WD,Automatic 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,12
+1984,Nissan,300ZX,Two Seaters,Automatic 4-spd,,Regular Gasoline,18
+1990,Nissan,240SX,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1989,Ford,Festiva,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,34
+2000,Lexus,RX 300 4WD,Midsize Station Wagons,Automatic 4-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,18
+2010,Audi,A3,Small Station Wagons,Automatic (S6),Front-Wheel Drive,Diesel,32
+1995,Eagle,Talon,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1987,Hyundai,Excel,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2016,Chevrolet,Volt,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,42
+1997,Mitsubishi,Galant,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+1993,Ford,Mustang,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,22
+1989,Pontiac,Firefly,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,41
+1993,Volvo,960 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+1995,Dodge,Stealth,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+2023,Toyota,Corolla Hatchback,Compact Cars,Automatic (AV-S10),Front-Wheel Drive,Regular Gasoline,35
+1985,Honda,Civic,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,34
+1987,Renault,Alliance,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1992,Eagle,Summit Wagon,Midsize-Large Station Wagons,Automatic 4-spd,4-Wheel or All-Wheel Drive,Regular Gasoline,19
+2009,Kia,Rio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,30
+1984,Chrysler,Laser/Daytona,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,21
+1985,Mitsubishi,Mirage,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,33
+1999,Volvo,V70 AWD,Midsize Station Wagons,Automatic 4-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+1990,Saab,900,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,19
+2009,Chevrolet,Aveo 5,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,28
+1994,Dodge,Shadow,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+2005,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,22
+1985,Dodge,Colt,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,22
+2025,Toyota,Prius AWD,Midsize Cars,Automatic (variable gear ratios),Part-time 4-Wheel Drive,Regular Gasoline,54
+2007,Kia,Rio,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1984,Mercury,Lynx,Compact Cars,Manual 4-spd,,Regular Gasoline,26
+1993,Geo,Storm,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,25
+1998,Pontiac,Firebird/Formula,Subcompact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,19
+1985,Plymouth,Horizon,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,30
+2003,Mercedes-Benz,C320 (Wagon),Small Station Wagons,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,18
+1992,Eagle,Summit,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,26
+1994,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+2018,Ford,Focus FWD,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Regular Gasoline,28
+2016,Dodge,Dart GT,Midsize Cars,Automatic 6-spd,Front-Wheel Drive,Regular Gasoline,25
+1994,Honda,Civic HB VX,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,40
+1989,Nissan,Stanza,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1996,Eagle,Summit Wagon,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1984,Ford,Escort,Compact Cars,Automatic 3-spd,,Regular Gasoline,23
+2014,Fiat,500,Minicompact Cars,Automatic 6-spd,Front-Wheel Drive,Premium Gasoline,29
+2014,Ferrari,FF,Midsize Cars,Automatic (AM7),Part-time 4-Wheel Drive,Premium Gasoline,13
+1986,Chrysler,Laser/Daytona,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+2002,Volkswagen,GTI,Compact Cars,Automatic (S5),Front-Wheel Drive,Premium Gasoline,22
+1984,Volkswagen,Rabbit,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,22
+2004,Acura,RSX,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,24
+1986,Mitsubishi,Mirage,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,27
+2017,Fiat,500 Abarth,Minicompact Cars,Automatic 6-spd,Front-Wheel Drive,Premium Gasoline,27
+1992,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1995,Eagle,Summit Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2004,Honda,Civic,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,32
+2020,Toyota,Prius c,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,46
+2022,Hyundai,Ioniq Blue,Large Cars,Automatic (AM-S6),Front-Wheel Drive,Regular Gasoline,59
+2011,Honda,CR-Z,Two Seaters,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,34
+1985,Isuzu,750C/I-Mark,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,30
+1992,Ford,Escort,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2019,Hyundai,Accent,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,31
+1984,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,19
+1985,Toyota,Camry,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+2006,Volvo,V70 R AWD,Midsize Station Wagons,Automatic (S6),4-Wheel or All-Wheel Drive,Premium Gasoline,18
+1990,Ford,Escort,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1999,Chevrolet,Metro,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+1988,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1985,Chrysler,Laser,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+1993,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1986,Toyota,Tercel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1990,Hyundai,Excel,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,27
+2016,Kia,Rio,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,30
+1997,Ford,Probe,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2009,Mitsubishi,Eclipse,Subcompact Cars,Automatic (S4),Front-Wheel Drive,Regular Gasoline,22
+2020,MINI,Cooper S Hardtop 2 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,30
+1987,Mitsubishi,Cordia,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1986,Dodge,Charger,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,20
+2011,Scion,iQ,Minicompact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,36
+1984,Mitsubishi,Starion,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,19
+1998,Mitsubishi,3000 GT,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+1987,Volkswagen,GTI 16v,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2018,Fiat,500 Abarth,Minicompact Cars,Automatic 6-spd,Front-Wheel Drive,Premium Gasoline,27
+1984,Plymouth,Colt,Subcompact Cars,Manual 4-spd,,Regular Gasoline,33
+1991,Volvo,740 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1986,Porsche,944,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,20
+1996,Mitsubishi,3000 GT,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,18
+2004,Volkswagen,GTI,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,22
+2017,Hyundai,Elantra GT,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,27
+2020,Audi,A7 quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,24
+1989,Chevrolet,Corsica,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,20
+1992,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+2005,Mazda,6,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2019,Mazda,3 5-Door 4WD,Midsize Cars,Automatic (S6),4-Wheel Drive,Regular Gasoline,27
+2015,MINI,Cooper (3-doors),Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,32
+2024,Volkswagen,GTI,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,27
+2014,Ford,Focus SFE FWD FFV,Compact Cars,Automatic (AM6),Front-Wheel Drive,Regular Gasoline,32
+2013,Dodge,Dart,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,26
+2005,Audi,TT Coupe,Minicompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,21
+1986,Plymouth,Turismo,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,22
+2006,Audi,TT Coupe quattro,Minicompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1993,Nissan,NX,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1986,Chevrolet,Chevette CS,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Diesel,36
+1987,Pontiac,Firebird/Trans Am/Formula,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+1986,Nissan,200SX,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,22
+1991,Plymouth,Laser,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1993,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,32
+1985,Renault,Alliance/Encore,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1993,Nissan,NX,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1991,Toyota,Celica,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+1986,Pontiac,Firefly FE,Minicompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,35
+2017,Ford,Focus FWD,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1999,BMW,318ti,Compact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,23
+2020,Buick,Regal AWD,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,24
+1991,Plymouth,Sundance,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2016,Audi,A3 e-tron ultra,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Premium Gasoline,39
+1987,Mitsubishi,Mirage,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,25
+1984,Porsche,928 S,Minicompact Cars,Manual 5-spd,,Regular Gasoline,15
+2017,Kia,Rio,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,31
+2003,Mercedes-Benz,C320 Sports Coupe,Compact Cars,Automatic 5-spd,Rear-Wheel Drive,Premium Gasoline,19
+1994,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1991,Saab,900,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,19
+1984,Saab,900,Compact Cars,Manual 5-spd,,Regular Gasoline,20
+2023,Lexus,UX 250h,Compact Cars,Automatic (AV-S6),Front-Wheel Drive,Regular Gasoline,42
+1987,Toyota,Tercel,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1991,Volvo,740 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2007,Volkswagen,GTI,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,24
+1987,Nissan,200SX,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1994,Dodge,Stealth,Subcompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,18
+2017,Nissan,Versa,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1990,Ford,Probe,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+1987,Porsche,944,Minicompact Cars,Automatic 3-spd,Rear-Wheel Drive,Regular Gasoline,19
+1988,Nissan,200SX,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1988,Porsche,928 S4,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,16
+2003,Mercedes-Benz,C320 4matic (Wagon),Small Station Wagons,Automatic 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+1986,Volkswagen,Scirocco,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2009,Audi,TT Coupe,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,26
+2022,Toyota,Corolla Hatchback,Compact Cars,Automatic (AV-S10),Front-Wheel Drive,Regular Gasoline,35
+1989,Saab,9000,Large Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1991,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2007,Nissan,Versa,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,28
+1985,Subaru,Hatchback,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,29
+1989,Mitsubishi,Starion,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1985,Chevrolet,Camaro,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1987,Mazda,626,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+1992,Dodge,Colt,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+1991,Suzuki,Swift GT,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2019,Ford,Fiesta FWD,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1988,Saab,900,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1986,Dodge,Daytona,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Premium Gasoline,19
+2019,Nissan,Kicks,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,33
+1984,Dodge,Conquest,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,19
+1985,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,17
+2013,Kia,Rio,Compact Cars,Automatic 6-spd,Front-Wheel Drive,Regular Gasoline,31
+2002,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1984,Ford,Mustang,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,16
+1992,Mitsubishi,Mirage,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,26
+2009,Dodge,Caliber,Small Station Wagons,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,22
+1996,Toyota,Supra,Minicompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,18
+1992,Dodge,Daytona,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+2017,MINI,Cooper S Countryman,Midsize Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,27
+1989,Suzuki,Swift GTI,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1984,Renault,Fuego,Subcompact Cars,Manual 5-spd,,Regular Gasoline,24
+1984,Ford,Mustang,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,17
+1984,Oldsmobile,Firenza,Compact Cars,Automatic 3-spd,,Regular Gasoline,24
+1984,Dodge,Omni,Compact Cars,Manual 5-spd,,Regular Gasoline,25
+1984,Chevrolet,Chevette,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,24
+2024,Volkswagen,Golf R,Compact Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,23
+2021,Mitsubishi,Mirage,Compact Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,39
+1995,Geo,Metro,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,35
+1998,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1989,Merkur,XR4Ti,Compact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1991,Ford,Escort,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2016,MINI,Cooper S Countryman,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,28
+1998,Chevrolet,Camaro,Subcompact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,19
+1984,Chevrolet,Chevette,Subcompact Cars,Manual 5-spd,,Regular Gasoline,27
+1985,Pontiac,1000,Subcompact Cars,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,26
+2006,Acura,RSX,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+2012,Volkswagen,Golf,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,26
+2020,Hyundai,Elantra GT,Large Cars,Automatic (AM-S7),Front-Wheel Drive,Regular Gasoline,28
+2022,Honda,Civic 5Dr,Large Cars,Automatic (AV-S7),Front-Wheel Drive,Regular Gasoline,32
+2012,Volkswagen,Beetle,Subcompact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,25
+1999,Suzuki,SW,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,35
+2014,MINI,Cooper Countryman,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,27
+1997,Saab,9000,Large Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,19
+1993,Eagle,Summit Wagon,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1986,Mercury,Lynx,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,22
+1987,Ford,Escort,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,31
+2023,Nissan,Kicks,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,33
+1988,Isuzu,Impulse,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1997,Saab,900,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+2020,Hyundai,Ioniq,Large Cars,Automatic (AM6),Front-Wheel Drive,Regular Gasoline,55
+2011,Kia,Rio,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1990,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2014,Ford,Focus FWD FFV,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1989,Nissan,Sentra,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,28
+1985,Chevrolet,Citation II,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+1985,Plymouth,Turismo,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,20
+1984,Oldsmobile,Firenza,Compact Cars,Manual 5-spd,,Regular Gasoline,25
+2015,Volkswagen,Beetle,Compact Cars,Manual 6-spd,Front-Wheel Drive,Diesel,34
+1998,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1985,Dodge,Lancer,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,21
+1998,Volkswagen,New Beetle,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,38
+1985,Nissan,300ZX,Two Seaters,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,18
+1991,Porsche,928 S4,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,15
+2005,Suzuki,Reno,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+2018,Toyota,Yaris,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,32
+1986,Mercury,Lynx,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1986,Volvo,740/760 Wagon,Midsize-Large Station Wagons,Manual 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1988,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1994,Eagle,Talon,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+2011,Kia,Rio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,30
+1989,Mercury,Tracer,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2022,MINI,Cooper Hardtop 4 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,31
+2018,BMW,X2 xDrive28i,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,25
+1988,Saab,9000,Large Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1986,Honda,Civic,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2012,Kia,Rondo,Midsize Station Wagons,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,22
+2013,Fiat,500,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,30
+1991,Geo,Storm,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2012,Toyota,Prius,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,48
+1993,Geo,Metro,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,33
+1986,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1985,Mercury,Capri,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,17
+1992,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+1986,Nissan,200SX,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,21
+1994,Hyundai,Excel,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,27
+2004,Volvo,V70 FWD,Midsize Station Wagons,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,22
+2023,MINI,Cooper S Hardtop 4 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,31
+1987,Mercury,Lynx,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,25
+1985,Plymouth,Turismo,Subcompact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,30
+1990,Porsche,928 S4,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,15
+1998,Mitsubishi,Eclipse Convertible,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+1989,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1989,Volvo,740 Wagon,Midsize-Large Station Wagons,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,19
+1986,Mitsubishi,Mirage,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,31
+1997,Pontiac,Firebird/Formula,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+2007,Volvo,V70 FWD,Midsize Station Wagons,Automatic 5-spd,Front-Wheel Drive,Premium Gasoline,21
+2018,Audi,A5 Sportback quattro,Midsize Cars,Automatic (AM-S7),All-Wheel Drive,Premium Gasoline,27
+1986,Mazda,323,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1999,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1993,Suzuki,Swift,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,35
+1984,Mercury,Capri,Subcompact Cars,Automatic 3-spd,,Regular Gasoline,19
+1994,Porsche,968,Minicompact Cars,Manual 6-spd,Rear-Wheel Drive,Regular Gasoline,18
+2001,Audi,TT Coupe quattro,Minicompact Cars,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1986,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,18
+2023,BMW,X2 xDrive28i,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,27
+2022,Porsche,Panamera 4,Large Cars,Automatic (AM-S8),All-Wheel Drive,Premium Gasoline,20
+2005,Kia,Spectra,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1997,Ford,Probe,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1999,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,20
+2021,MINI,Cooper S Countryman All4,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2024,Lexus,UX 250h,Compact Cars,Automatic (AV-S6),Front-Wheel Drive,Regular Gasoline,42
+1996,Toyota,Celica,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,27
+2012,Fiat,500 Abarth,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,30
+1985,Dodge,Conquest,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,19
+2015,Volkswagen,GTI,Compact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,28
+2013,Volkswagen,Beetle,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Premium Gasoline,25
+1999,Volvo,V70 FWD,Midsize Station Wagons,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,21
+1986,Dodge,Colt,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,27
+1986,Subaru,Hatchback,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+2021,MINI,Cooper Hardtop 4 door,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,30
+1984,Volkswagen,Scirocco,Subcompact Cars,Manual 5-spd,,Regular Gasoline,23
+1990,Mitsubishi,Precis,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,28
+2014,Volkswagen,Golf,Compact Cars,Automatic (AM-S6),Front-Wheel Drive,Diesel,32
+1992,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2007,Nissan,Versa,Midsize Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,28
+1991,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+1998,Eagle,Talon,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+1984,Toyota,Corolla Sport,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,26
+1984,Mazda,626,Compact Cars,Automatic 3-spd,,Regular Gasoline,23
+2022,Toyota,Corolla Hatchback,Compact Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,31
+2017,Mazda,3 5-Door,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,31
+1990,Mazda,626/MX-6,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1994,Pontiac,Firebird/Formula,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+1992,Eagle,Summit Wagon,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1984,Chevrolet,Citation II,Midsize Cars,Automatic 3-spd,,Regular Gasoline,23
+1989,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1989,Chevrolet,Camaro,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1992,Porsche,968,Minicompact Cars,Automatic (S4),Rear-Wheel Drive,Premium Gasoline,17
+1993,Dodge,Stealth,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,18
+1985,Nissan,200SX,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,21
+2013,Audi,A7 quattro,Midsize Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,21
+2015,Dodge,Dart,Midsize Cars,Automatic 6-spd,Front-Wheel Drive,Regular Gasoline,27
+2014,BMW,X1 sDrive28i,Large Cars,Automatic (S8),Rear-Wheel Drive,Premium Gasoline,26
+1988,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,27
+1994,Dodge,Shadow,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2013,MINI,Cooper S Clubman,Subcompact Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,29
+2021,MINI,Cooper Hardtop 2 door,Subcompact Cars,Automatic (AM-S7),Front-Wheel Drive,Premium Gasoline,31
+2021,Audi,Q3 quattro,Small Sport Utility Vehicle 4WD,Automatic (S8),All-Wheel Drive,Regular Gasoline,25
+2012,Hyundai,Accent,Compact Cars,Automatic 6-spd,Front-Wheel Drive,Regular Gasoline,31
+1994,Plymouth,Colt Vista,Midsize-Large Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,22
+2008,Toyota,Yaris,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,31
+2019,Mazda,3 5-Door 2WD,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,29
+1997,Mitsubishi,Eclipse Convertible,Minicompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+2020,Honda,Civic 5Dr,Large Cars,Manual 6-spd,Front-Wheel Drive,Premium Gasoline,32
+1994,Chevrolet,Camaro,Subcompact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,18
+2018,Kia,Forte 5,Large Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,28
+2019,Ferrari,GTC4Lusso,Minicompact Cars,Automatic (AM7),Part-time 4-Wheel Drive,Premium Gasoline,13
+2018,BMW,X2 sDrive28i,Midsize Cars,Automatic (S8),Front-Wheel Drive,Premium Gasoline,26
+1985,Dodge,Charger,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+1984,Pontiac,Firebird,Subcompact Cars,Automatic 4-spd,,Regular Gasoline,19
+1985,Toyota,Celica Supra,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Premium Gasoline,19
+1995,Mitsubishi,Eclipse,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,21
+1998,Toyota,Supra,Minicompact Cars,Automatic 4-spd,Rear-Wheel Drive,Premium Gasoline,18
+2003,Mercedes-Benz,ML500,Sport Utility Vehicle - 4WD,Automatic 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,14
+2018,Ford,Focus FWD,Compact Cars,Automatic (AM6),Front-Wheel Drive,Regular Gasoline,31
+2014,Volkswagen,Beetle,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2023,MINI,Cooper SE Countryman All4,Midsize Cars,Automatic (S6),All-Wheel Drive,Premium Gasoline,29
+1994,Subaru,Justy,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,30
+1984,Mercury,Lynx,Compact Cars,Manual 5-spd,,Regular Gasoline,25
+1988,Isuzu,Impulse,Subcompact Cars,Automatic 4-spd,Rear-Wheel Drive,Regular Gasoline,20
+1989,Honda,Accord,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2013,Hyundai,Santa Fe Sport 4WD,Small Sport Utility Vehicle 4WD,Automatic 6-spd,4-Wheel Drive,Regular Gasoline,22
+2016,MINI,Cooper S Countryman All4,Compact Cars,Manual 6-spd,All-Wheel Drive,Premium Gasoline,27
+2004,Mazda,6,Midsize Cars,Automatic (S5),Front-Wheel Drive,Regular Gasoline,19
+1997,Pontiac,Firebird/Formula,Subcompact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,18
+2014,MINI,Cooper Paceman,Compact Cars,Automatic (S6),Front-Wheel Drive,Premium Gasoline,27
+2006,Mazda,3,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,25
+2019,Volkswagen,GTI,Compact Cars,Automatic (AM-S7),Front-Wheel Drive,Regular Gasoline,27
+1998,Chevrolet,Malibu,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+2000,Volkswagen,GTI,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+2022,Audi,A7 quattro,Midsize Cars,Automatic (AM-S7),4-Wheel Drive,Premium Gasoline,24
+2016,Kia,Forte 5,Large Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,24
+1986,Chevrolet,Spectrum,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,34
+1985,Chevrolet,Cavalier,Compact Cars,Manual 4-spd,Front-Wheel Drive,Regular Gasoline,18
+2000,Volkswagen,Golf,Compact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,24
+1986,Mercury,Lynx,Compact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,34
+2003,Mercedes-Benz,C230 Kompressor,Compact Cars,Manual 6-spd,Rear-Wheel Drive,Premium Gasoline,22
+1990,Dodge,Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,21
+1986,Chrysler,Laser/Daytona,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,26
+1999,Mitsubishi,Eclipse Convertible,Minicompact Cars,Manual 5-spd,Front-Wheel Drive,Premium Gasoline,23
+2015,Mazda,3 5-Door,Midsize Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,32
+2020,BMW,X1 xDrive28i,Large Cars,Automatic (S8),All-Wheel Drive,Premium Gasoline,26
+2006,Volvo,V70 R AWD,Midsize Station Wagons,Manual 6-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,19
+2005,Suzuki,Aerio,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,24
+2019,Honda,Civic 5Dr,Large Cars,Automatic (variable gear ratios),Front-Wheel Drive,Regular Gasoline,34
+1997,Saab,9000,Large Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,18
+1990,Dodge,Omni,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,24
+1984,Plymouth,Turismo,Subcompact Cars,Manual 4-spd,,Regular Gasoline,29
+1986,Ford,Escort,Compact Cars,Manual 5-spd,Front-Wheel Drive,Diesel,34
+1986,Merkur,XR4Ti,Compact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,19
+1986,Honda,Civic,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,26
+1986,Renault,Fuego,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+2021,Porsche,Panamera,Large Cars,Automatic (AM-S8),Rear-Wheel Drive,Premium Gasoline,20
+1995,Honda,Accord Wagon,Small Station Wagons,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,24
+1985,Chevrolet,Camaro,Subcompact Cars,Manual 5-spd,Rear-Wheel Drive,Regular Gasoline,18
+1990,Plymouth,Laser,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+2003,Mitsubishi,Eclipse,Subcompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,21
+2017,Chevrolet,Cruze Hatchback,Midsize Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,31
+1989,Saab,900,Compact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,18
+2015,Ford,Focus FWD FFV,Compact Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,30
+1989,Suzuki,Swift,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,34
+1992,Mazda,626/MX-6,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Premium Gasoline,19
+1995,Saab,900,Midsize Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,21
+1988,Toyota,Corolla FX,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,29
+1987,Dodge,Lancer,Midsize Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,17
+1995,Saab,900,Midsize Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20
+1994,Dodge,Stealth,Subcompact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,19
+2010,Mazda,3,Compact Cars,Automatic (S5),Front-Wheel Drive,Regular Gasoline,25
+2019,Hyundai,Elantra GT,Large Cars,Automatic (S6),Front-Wheel Drive,Regular Gasoline,27
+1994,Plymouth,Sundance/Duster,Compact Cars,Manual 5-spd,Front-Wheel Drive,Regular Gasoline,23
+1999,Suzuki,SW,Subcompact Cars,Automatic 3-spd,Front-Wheel Drive,Regular Gasoline,28
+2018,Hyundai,Elantra GT,Large Cars,Manual 6-spd,Front-Wheel Drive,Regular Gasoline,26
+1992,Plymouth,Laser,Subcompact Cars,Manual 5-spd,4-Wheel or All-Wheel Drive,Premium Gasoline,20
+1991,Mazda,323/323 Protege,Compact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,23
+2020,Honda,Civic 5Dr,Large Cars,Automatic (AV-S7),Front-Wheel Drive,Premium Gasoline,32
+1996,Mitsubishi,Eclipse Convertible,Minicompact Cars,Automatic 4-spd,Front-Wheel Drive,Regular Gasoline,20

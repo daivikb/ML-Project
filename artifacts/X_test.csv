@@ -1,0 +1,1053 @@
+year,cylinders,displ,drive,trany,VClass,fuelType1,hp_per_liter,liter_per_cyl,hp_per_cyl
+1984,4.0,1.6,,Manual 5-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1985,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1988,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,25.333333333333332,0.5,12.666666666666666
+1997,4.0,1.9,Rear-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,45.78947368421053,0.475,21.75
+1985,4.0,2.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,38.5,0.5,19.25
+1993,6.0,2.5,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,38.8,0.4166666666666667,16.166666666666668
+1994,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,40.0,0.575,23.0
+1993,4.0,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1992,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,44.44444444444444,0.45,20.0
+1990,3.0,1.2,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+1995,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.0,0.5,20.0
+2012,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,42.5,0.5,21.25
+1994,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,63.07692307692307,0.325,20.5
+2023,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,46.0,0.5,23.0
+1984,4.0,2.5,,Automatic 3-spd,Midsize Cars,Regular Gasoline,38.4,0.625,24.0
+1988,4.0,2.6,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+1990,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,32.4,0.625,20.25
+2005,4.0,1.8,Front-Wheel Drive,Automatic (S5),Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+2017,4.0,2.5,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,38.4,0.625,24.0
+1984,4.0,1.4,,Manual 5-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+1984,4.0,1.6,,Automatic 3-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1989,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+2024,3.0,1.5,Front-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+2008,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+2010,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,35.41666666666667,0.6,21.25
+1985,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1988,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,38.69565217391305,0.575,22.25
+2005,4.0,1.7,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,50.0,0.425,21.25
+2003,5.0,2.5,4-Wheel or All-Wheel Drive,Automatic (S5),Midsize Station Wagons,Premium Gasoline,39.2,0.5,19.6
+2014,4.0,1.4,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1985,6.0,2.8,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,33.92857142857143,0.4666666666666666,15.833333333333334
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Regular Gasoline,43.0,0.5,21.5
+1994,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,63.07692307692307,0.325,20.5
+2005,4.0,1.9,Front-Wheel Drive,Automatic (S5),Compact Cars,Diesel,46.31578947368421,0.475,22.0
+1985,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,41.5,0.5,20.75
+2015,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,38.4,0.625,24.0
+2001,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+1988,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1985,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+2020,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+2022,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+2018,4.0,2.0,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1991,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,39.56521739130435,0.575,22.75
+2018,6.0,3.0,All-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,35.666666666666664,0.5,17.833333333333332
+1985,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,43.333333333333336,0.45,19.5
+1990,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,52.5,0.4,21.0
+2022,4.0,2.0,Front-Wheel Drive,Automatic (AM7),Midsize Cars,Regular Gasoline,45.5,0.5,22.75
+2006,4.0,2.5,4-Wheel or All-Wheel Drive,Manual 5-spd,Small Station Wagons,Premium Gasoline,36.0,0.625,22.5
+1995,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+2018,4.0,2.0,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,42.0,0.5,21.0
+2004,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+1989,6.0,2.8,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,33.92857142857143,0.4666666666666666,15.833333333333334
+2003,4.0,1.8,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,Premium Gasoline,53.33333333333333,0.45,24.0
+2000,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,60.666666666666664,0.375,22.75
+1986,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2017,4.0,2.0,All-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+2005,4.0,1.8,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Premium Gasoline,43.333333333333336,0.45,19.5
+2023,6.0,2.9,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,34.827586206896555,0.48333333333333334,16.833333333333332
+2017,4.0,2.0,All-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,42.0,0.5,21.0
+1987,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+2020,6.0,3.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,30.333333333333332,0.5,15.166666666666666
+1992,3.0,1.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+2018,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1989,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,43.0,0.5,21.5
+2013,4.0,1.6,Front-Wheel Drive,Automatic (AM6),Subcompact Cars,Regular Gasoline,53.125,0.4,21.25
+1993,6.0,3.4,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,24.11764705882353,0.5666666666666667,13.666666666666666
+1989,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+2008,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,64.0,0.375,24.0
+1987,4.0,2.5,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Regular Gasoline,25.2,0.625,15.75
+1993,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1992,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2012,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1987,4.0,2.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,38.5,0.5,19.25
+2020,4.0,2.0,Front-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,50.5,0.5,25.25
+2024,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+1992,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,66.15384615384615,0.325,21.5
+2020,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+1996,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Small Station Wagons,Regular Gasoline,42.72727272727273,0.55,23.5
+1993,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+2003,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,41.30434782608696,0.575,23.75
+1985,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,36.52173913043479,0.575,21.0
+1999,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,43.5,0.5,21.75
+1998,5.0,2.4,Front-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Premium Gasoline,41.25,0.48,19.8
+1988,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+2019,4.0,1.8,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+2005,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1985,4.0,2.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+2000,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,43.333333333333336,0.45,19.5
+1990,6.0,3.1,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.419354838709676,0.5166666666666667,14.166666666666666
+1990,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+2018,3.0,1.5,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+2017,4.0,1.8,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,50.0,0.45,22.5
+1993,4.0,2.4,4-Wheel or All-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+1991,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+1986,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+1999,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.77777777777778,0.45,19.25
+1985,4.0,2.4,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,31.666666666666668,0.6,19.0
+2019,4.0,1.4,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,67.85714285714286,0.35,23.75
+2016,4.0,1.8,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,47.22222222222222,0.45,21.25
+2016,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,56.25,0.4,22.5
+2001,4.0,1.9,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Diesel,44.73684210526316,0.475,21.25
+2022,4.0,2.0,Front-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,50.5,0.5,25.25
+2010,5.0,2.4,Front-Wheel Drive,Automatic (S5),Compact Cars,Regular Gasoline,37.083333333333336,0.48,17.8
+1989,4.0,2.3,Rear-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,39.130434782608695,0.575,22.5
+1995,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.89473684210527,0.475,22.75
+2004,4.0,2.0,Front-Wheel Drive,Automatic (S4),Compact Cars,Regular Gasoline,47.5,0.5,23.75
+2023,4.0,2.0,Front-Wheel Drive,Automatic (AV-S7),Large Cars,Regular Gasoline,49.5,0.5,24.75
+1991,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Premium Gasoline,43.18181818181818,0.55,23.75
+1988,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1990,6.0,3.1,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,30.64516129032258,0.5166666666666667,15.833333333333334
+1989,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Premium Gasoline,38.4,0.625,24.0
+1988,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Regular Gasoline,74.0,0.3333333333333333,24.666666666666668
+2022,3.0,1.2,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,71.66666666666667,0.39999999999999997,28.666666666666668
+2010,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Regular Gasoline,59.375,0.4,23.75
+1984,4.0,2.0,,Automatic 3-spd,Compact Cars,Regular Gasoline,42.0,0.5,21.0
+1986,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Large Cars,Regular Gasoline,51.0,0.5,25.5
+2016,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,58.75,0.4,23.5
+1988,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+2022,4.0,2.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,45.5,0.5,22.75
+2019,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,42.5,0.5,21.25
+1995,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1998,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+1986,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Premium Gasoline,46.666666666666664,0.45,21.0
+1998,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,56.875,0.4,22.75
+1984,6.0,3.0,,Automatic 4-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+1984,4.0,2.5,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,34.0,0.625,21.25
+1985,4.0,1.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+1989,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,54.666666666666664,0.375,20.5
+2024,6.0,3.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,31.666666666666668,0.5,15.833333333333334
+1994,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+1990,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.0,0.5,13.5
+1991,4.0,1.9,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,47.89473684210527,0.475,22.75
+1992,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+2006,4.0,1.9,Front-Wheel Drive,Automatic (S5),Compact Cars,Diesel,46.31578947368421,0.475,22.0
+1994,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,40.45454545454545,0.55,22.25
+2017,3.0,1.5,All-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,61.333333333333336,0.5,30.666666666666668
+1984,4.0,1.8,,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.22222222222222,0.45,19.0
+1988,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+2000,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,59.230769230769226,0.325,19.25
+1989,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1992,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+1992,3.0,1.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+2007,4.0,2.3,4-Wheel or All-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,39.56521739130435,0.575,22.75
+2023,4.0,2.0,Front-Wheel Drive,Automatic (AV-S10),Compact Cars,Regular Gasoline,42.5,0.5,21.25
+1984,4.0,2.3,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,36.52173913043479,0.575,21.0
+1990,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+2015,4.0,2.0,All-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,49.0,0.5,24.5
+1994,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,25.0,0.5,12.5
+1985,4.0,1.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+1984,4.0,2.2,,Manual 5-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+2016,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.5,0.5,24.25
+2001,4.0,2.4,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Regular Gasoline,32.91666666666667,0.6,19.75
+1995,5.0,2.3,Front-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,43.04347826086957,0.45999999999999996,19.8
+2007,5.0,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd,Midsize Station Wagons,Premium Gasoline,39.2,0.5,19.6
+2000,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+1996,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,52.77777777777778,0.45,23.75
+1994,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,42.72727272727273,0.55,23.5
+2010,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Diesel,47.0,0.5,23.5
+1990,3.0,1.2,Front-Wheel Drive,Automatic (variable gear ratios),Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+1984,4.0,1.6,,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1986,4.0,1.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+1998,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,43.5,0.5,21.75
+2007,5.0,2.5,4-Wheel or All-Wheel Drive,Automatic (S5),Midsize Station Wagons,Premium Gasoline,39.2,0.5,19.6
+2024,4.0,2.0,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,45.5,0.5,22.75
+2025,4.0,2.5,4-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,37.2,0.625,23.25
+1986,4.0,2.5,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,34.0,0.625,21.25
+2001,5.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,42.608695652173914,0.45999999999999996,19.6
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Premium Gasoline,44.54545454545454,0.55,24.5
+1987,4.0,1.6,Rear-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+2014,4.0,2.0,All-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,51.0,0.5,25.5
+1985,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,44.54545454545454,0.55,24.5
+1994,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,29.666666666666668,0.5,14.833333333333334
+2016,6.0,3.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Diesel,31.333333333333332,0.5,15.666666666666666
+1993,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+2014,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,36.0,0.625,22.5
+1991,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,33.63636363636363,0.55,18.5
+1996,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+2010,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,47.5,0.5,23.75
+1985,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,43.333333333333336,0.45,19.5
+2002,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.5,0.5,22.75
+2005,6.0,3.0,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Premium Gasoline,26.333333333333332,0.5,13.166666666666666
+2019,4.0,1.4,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,67.85714285714286,0.35,23.75
+2020,4.0,2.0,Front-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+2012,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.5,0.5,24.25
+2004,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,39.56521739130435,0.575,22.75
+1989,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,38.4,0.625,24.0
+1990,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+2001,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+2000,5.0,2.4,Front-Wheel Drive,Automatic 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+2007,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,64.0,0.375,24.0
+2013,4.0,2.0,All-Wheel Drive,Manual 6-spd,Subcompact Cars,Regular Gasoline,45.0,0.5,22.5
+1984,4.0,1.6,,Manual 5-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1990,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,17.0,0.625,10.625
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Regular Gasoline,42.0,0.5,21.0
+1986,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+2019,4.0,2.0,Front-Wheel Drive,Automatic (AV-S7),Compact Cars,Regular Gasoline,42.0,0.5,21.0
+2013,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1986,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,54.666666666666664,0.375,20.5
+2004,4.0,1.7,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,50.0,0.425,21.25
+1984,4.0,2.0,,Automatic 4-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+1989,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+2023,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,53.333333333333336,0.5,26.666666666666668
+1987,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+1984,4.0,1.5,,Manual 5-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.375,17.5
+1997,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,62.30769230769231,0.325,20.25
+1986,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,50.625,0.4,20.25
+2003,4.0,1.8,4-Wheel or All-Wheel Drive,Automatic 4-spd,Small Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1985,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,35.0,0.55,19.25
+2022,4.0,1.6,Front-Wheel Drive,Automatic (AM-S6),Midsize Cars,Regular Gasoline,60.0,0.4,24.0
+2019,3.0,1.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,71.66666666666667,0.39999999999999997,28.666666666666668
+2019,4.0,1.6,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,Diesel,59.375,0.4,23.75
+2007,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,35.41666666666667,0.6,21.25
+2021,4.0,2.5,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,37.2,0.625,23.25
+1996,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,63.07692307692307,0.325,20.5
+2010,5.0,2.5,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Regular Gasoline,34.0,0.5,17.0
+1985,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+1996,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,62.30769230769231,0.325,20.25
+1995,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Regular Gasoline,40.0,0.575,23.0
+1990,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,44.0,0.5,22.0
+1992,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+2000,5.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,42.608695652173914,0.45999999999999996,19.6
+1985,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1987,4.0,1.4,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+2002,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+1988,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1997,6.0,2.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,31.071428571428573,0.4666666666666666,14.5
+1991,6.0,2.9,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Premium Gasoline,32.41379310344828,0.48333333333333334,15.666666666666666
+2014,4.0,1.6,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+2023,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Large Cars,Regular Gasoline,66.0,0.375,24.75
+1993,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2006,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Diesel,44.73684210526316,0.475,21.25
+2024,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Compact Cars,Regular Gasoline,46.5,0.5,23.25
+2012,4.0,2.4,Front-Wheel Drive,Automatic (S5),Small Station Wagons,Premium Gasoline,39.16666666666667,0.6,23.5
+2018,4.0,1.8,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+1989,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,52.5,0.4,21.0
+1984,8.0,5.0,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,16.8,0.625,10.5
+1991,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,25.0,0.5,12.5
+2001,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,47.77777777777778,0.45,21.5
+1999,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,43.5,0.5,21.75
+2015,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1989,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,53.333333333333336,0.375,20.0
+2016,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+1994,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Small Station Wagons,Regular Gasoline,42.72727272727273,0.55,23.5
+1994,6.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,31.6,0.4166666666666667,13.166666666666666
+2016,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2013,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+1993,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,66.15384615384615,0.325,21.5
+1986,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+1991,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1990,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,52.5,0.4,21.0
+1985,4.0,2.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+2025,8.0,2.9,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.3625,12.25
+1989,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+2002,4.0,1.7,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,50.0,0.425,21.25
+1991,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,35.6,0.625,22.25
+2023,4.0,2.0,All-Wheel Drive,Automatic (AV-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1999,4.0,1.9,Rear-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.78947368421053,0.475,21.75
+1994,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+2024,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+2009,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.875,0.4,22.75
+1999,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,40.0,0.6,24.0
+2022,6.0,2.9,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.48333333333333334,16.333333333333332
+2023,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,40.0,0.5,20.0
+2016,4.0,1.6,All-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2013,4.0,2.0,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,47.5,0.5,23.75
+2006,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+2023,6.0,2.9,Rear-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.48333333333333334,16.333333333333332
+1992,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2021,4.0,2.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,45.5,0.5,22.75
+1985,4.0,2.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+2009,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,39.583333333333336,0.6,23.75
+2017,4.0,2.0,Front-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,50.5,0.5,25.25
+2022,6.0,2.9,4-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,32.41379310344828,0.48333333333333334,15.666666666666666
+1986,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Midsize-Large Station Wagons,Regular Gasoline,39.56521739130435,0.575,22.75
+1994,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+2005,4.0,2.4,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Regular Gasoline,32.91666666666667,0.6,19.75
+2020,3.0,1.5,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+2002,6.0,3.0,Rear-Wheel Drive,Automatic (S5),Compact Cars,Premium Gasoline,29.666666666666668,0.5,14.833333333333334
+2007,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+1992,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,33.63636363636363,0.55,18.5
+1989,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+1995,6.0,2.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,31.071428571428573,0.4666666666666666,14.5
+2023,4.0,2.0,Part-time 4-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,45.5,0.5,22.75
+2021,4.0,1.4,Front-Wheel Drive,Automatic (S8),Compact Cars,Regular Gasoline,66.42857142857143,0.35,23.25
+1999,5.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,42.608695652173914,0.45999999999999996,19.6
+2016,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2013,4.0,1.4,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,69.28571428571429,0.35,24.25
+1986,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,36.52173913043479,0.575,21.0
+1988,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Premium Gasoline,43.63636363636363,0.55,24.0
+1987,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1986,4.0,1.4,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+1986,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+2017,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+2009,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,49.44444444444444,0.45,22.25
+1990,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Premium Gasoline,32.4,0.625,20.25
+1984,6.0,3.0,,Automatic 4-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+2000,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Diesel,44.73684210526316,0.475,21.25
+2026,12.0,6.5,All-Wheel Drive,Automatic (AM8),Compact Cars,Premium Gasoline,14.923076923076923,0.5416666666666666,8.083333333333334
+1989,4.0,2.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+2018,4.0,2.0,All-Wheel Drive,Automatic (AM7),Compact Cars,Premium Gasoline,44.5,0.5,22.25
+1993,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1984,4.0,2.2,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+1985,4.0,2.5,Front-Wheel Drive,Manual 4-spd,Midsize Cars,Regular Gasoline,38.0,0.625,23.75
+2011,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1989,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2013,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,58.0,0.375,21.75
+1996,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,48.63636363636363,0.55,26.75
+1987,4.0,2.5,Rear-Wheel Drive,Automatic 3-spd,Minicompact Cars,Regular Gasoline,25.2,0.625,15.75
+1996,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Small Station Wagons,Regular Gasoline,52.77777777777778,0.45,23.75
+2004,4.0,2.0,Front-Wheel Drive,Automatic (S4),Compact Cars,Regular Gasoline,47.5,0.5,23.75
+1987,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+1986,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2024,6.0,3.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,30.333333333333332,0.5,15.166666666666666
+1986,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,43.63636363636363,0.55,24.0
+2023,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+1984,4.0,1.6,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+1987,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,55.0,0.4,22.0
+1991,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2011,5.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,37.6,0.5,18.8
+1992,6.0,3.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2019,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,53.333333333333336,0.5,26.666666666666668
+1995,6.0,3.0,4-Wheel or All-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2009,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,39.583333333333336,0.6,23.75
+2003,5.0,2.4,Front-Wheel Drive,Automatic 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+2001,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,56.875,0.4,22.75
+1989,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,36.08695652173913,0.575,20.75
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Diesel,42.5,0.5,21.25
+1985,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,51.875,0.4,20.75
+2020,4.0,2.0,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,Regular Gasoline,42.0,0.5,21.0
+1989,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,43.63636363636363,0.55,24.0
+2012,4.0,1.6,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+2018,3.0,1.5,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,56.0,0.5,28.0
+1989,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,43.63636363636363,0.55,24.0
+1993,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+1989,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+1998,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,23.0,0.5,11.5
+1995,4.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,21.0,0.75,15.75
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1985,8.0,5.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,16.8,0.625,10.5
+1998,6.0,2.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,31.071428571428573,0.4666666666666666,14.5
+1984,4.0,1.5,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+2012,4.0,2.0,Front-Wheel Drive,Automatic (AM6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+2024,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,46.0,0.5,23.0
+2017,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,60.0,0.375,22.5
+2019,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+2018,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,58.75,0.4,23.5
+1989,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+2010,5.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,37.6,0.5,18.8
+1993,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+2019,4.0,2.0,Front-Wheel Drive,Automatic (AV-S10),Compact Cars,Regular Gasoline,42.5,0.5,21.25
+2019,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,40.0,0.5,20.0
+1990,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+1984,4.0,2.5,,Manual 5-spd,Subcompact Cars,Regular Gasoline,34.0,0.625,21.25
+1986,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1988,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,24.666666666666668,0.5,12.333333333333334
+1984,4.0,1.6,,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+2014,4.0,1.6,All-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2017,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1989,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,61.53846153846153,0.325,20.0
+1984,4.0,1.5,,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1986,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+1995,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.0,0.5,20.0
+1986,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Two Seaters,Regular Gasoline,16.333333333333332,0.5,8.166666666666666
+2015,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+1992,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2018,6.0,3.0,All-Wheel Drive,Automatic (AM-S8),Midsize Cars,Premium Gasoline,30.333333333333332,0.5,15.166666666666666
+2013,4.0,2.0,Rear-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,49.0,0.5,24.5
+1984,4.0,2.2,,Manual 5-spd,Subcompact Cars,Regular Gasoline,35.0,0.55,19.25
+2003,5.0,2.5,Front-Wheel Drive,Automatic (S5),Sport Utility Vehicle - 2WD,Premium Gasoline,40.4,0.5,20.2
+2014,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+2011,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,36.0,0.625,22.5
+1992,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1995,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+2013,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Premium Gasoline,47.0,0.5,23.5
+1984,4.0,2.4,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,31.666666666666668,0.6,19.0
+1990,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1984,6.0,3.0,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,24.333333333333332,0.5,12.166666666666666
+1990,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,51.11111111111111,0.45,23.0
+1997,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Diesel,46.31578947368421,0.475,22.0
+2024,4.0,2.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,45.5,0.5,22.75
+1999,4.0,2.0,4-Wheel or All-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+2009,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,52.77777777777778,0.45,23.75
+1985,4.0,1.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Diesel,43.888888888888886,0.45,19.75
+1986,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,55.0,0.4,22.0
+1991,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,24.666666666666668,0.5,12.333333333333334
+1985,6.0,2.8,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.000000000000004,0.4666666666666666,14.0
+2018,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,58.75,0.4,23.5
+1986,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+1986,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+1989,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Two Seaters,Regular Gasoline,16.333333333333332,0.5,8.166666666666666
+2024,4.0,1.5,Front-Wheel Drive,Automatic (AV-S7),Large Cars,Regular Gasoline,66.0,0.375,24.75
+2012,4.0,2.0,All-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,37.0,0.5,18.5
+1991,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+2002,4.0,2.3,Rear-Wheel Drive,Automatic 5-spd,Compact Cars,Premium Gasoline,36.95652173913044,0.575,21.25
+2010,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,35.41666666666667,0.6,21.25
+1994,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1987,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,24.666666666666668,0.5,12.333333333333334
+1989,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,14.8,0.625,9.25
+1984,4.0,1.5,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.375,17.5
+2022,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,37.2,0.625,23.25
+1997,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1989,6.0,2.8,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+2017,4.0,2.0,All-Wheel Drive,Automatic (AV-S8),Small Sport Utility Vehicle 4WD,Premium Gasoline,54.0,0.5,27.0
+1989,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1985,4.0,1.9,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+2000,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+2015,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Diesel,46.5,0.5,23.25
+1994,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1997,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1995,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Small Station Wagons,Regular Gasoline,42.72727272727273,0.55,23.5
+1988,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1993,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+1989,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+1990,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,17.0,0.625,10.625
+1992,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1984,4.0,1.8,,Automatic 3-spd,Compact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+1992,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,40.45454545454545,0.55,22.25
+1987,4.0,1.6,Rear-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+2014,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.22222222222222,0.45,21.25
+2015,4.0,1.8,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+2011,4.0,1.6,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+1986,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,42.0,0.5,21.0
+2006,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,39.56521739130435,0.575,22.75
+2015,4.0,1.4,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1986,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+1989,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,17.0,0.625,10.625
+2004,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,39.56521739130435,0.575,22.75
+2011,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+1987,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Diesel,42.5,0.5,21.25
+1992,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+2002,4.0,1.9,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Diesel,46.31578947368421,0.475,22.0
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1990,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1992,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,24.666666666666668,0.5,12.333333333333334
+1989,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1994,4.0,2.0,4-Wheel or All-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1988,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,50.625,0.4,20.25
+2007,5.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,34.0,0.5,17.0
+2016,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+2010,4.0,2.0,All-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,37.0,0.5,18.5
+1991,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1992,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+1984,4.0,1.3,,Manual 4-spd,Minicompact Cars,Regular Gasoline,56.15384615384615,0.325,18.25
+1997,6.0,2.5,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,38.4,0.4166666666666667,16.0
+1987,6.0,2.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,30.000000000000004,0.4666666666666666,14.0
+1991,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+1984,4.0,1.6,,Manual 4-spd Doubled,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+2007,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,49.0,0.5,24.5
+1988,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Regular Gasoline,74.0,0.3333333333333333,24.666666666666668
+1986,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1994,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+2018,3.0,1.5,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,61.333333333333336,0.5,30.666666666666668
+2012,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,52.77777777777778,0.45,23.75
+1985,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Premium Gasoline,50.625,0.4,20.25
+2019,4.0,2.0,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1989,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2010,4.0,2.0,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,47.0,0.5,23.5
+1988,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2020,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,46.0,0.5,23.0
+1989,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1985,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Premium Gasoline,46.666666666666664,0.45,21.0
+1986,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Diesel,44.5,0.5,22.25
+1984,4.0,1.8,,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1986,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1991,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+1988,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,54.666666666666664,0.375,20.5
+1996,6.0,3.0,4-Wheel or All-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2005,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,26.333333333333332,0.5,13.166666666666666
+1984,4.0,1.4,,Manual 4-spd Doubled,Subcompact Cars,Regular Gasoline,55.0,0.35,19.25
+2003,4.0,1.9,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Diesel,44.73684210526316,0.475,21.25
+2016,4.0,2.0,Front-Wheel Drive,Automatic (S6),Large Cars,Regular Gasoline,49.0,0.5,24.5
+1990,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1989,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Two Seaters,Regular Gasoline,16.333333333333332,0.5,8.166666666666666
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+1984,4.0,2.2,,Automatic 3-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+2000,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,42.77777777777778,0.45,19.25
+2015,4.0,1.6,All-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2004,5.0,2.5,Front-Wheel Drive,Automatic (S5),Sport Utility Vehicle - 2WD,Premium Gasoline,40.4,0.5,20.2
+1991,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,40.45454545454545,0.55,22.25
+2016,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,51.666666666666664,0.45,23.25
+2026,4.0,2.0,Front-Wheel Drive,Automatic (AV-S10),Compact Cars,Regular Gasoline,42.5,0.5,21.25
+2017,3.0,1.2,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,71.66666666666667,0.39999999999999997,28.666666666666668
+1995,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,40.0,0.575,23.0
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1984,4.0,1.6,,Manual 4-spd Doubled,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+2021,8.0,4.0,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,24.5,0.5,12.25
+1984,6.0,2.8,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+1985,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,44.54545454545454,0.55,24.5
+1995,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Large Cars,Regular Gasoline,43.04347826086957,0.575,24.75
+1995,6.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,32.0,0.4166666666666667,13.333333333333334
+2004,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,43.333333333333336,0.45,19.5
+1991,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1998,6.0,3.0,Rear-Wheel Drive,Manual 6-spd,Minicompact Cars,Premium Gasoline,23.0,0.5,11.5
+1993,4.0,2.4,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,29.583333333333336,0.6,17.75
+1991,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+2025,4.0,2.0,Front-Wheel Drive,Automatic (variable gear ratios),Large Cars,Regular Gasoline,49.5,0.5,24.75
+1992,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,36.08695652173913,0.575,20.75
+2016,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,55.625,0.4,22.25
+2012,4.0,2.4,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,40.41666666666667,0.6,24.25
+1984,4.0,2.2,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+1984,6.0,3.0,,Manual 5-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+1992,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,39.56521739130435,0.575,22.75
+2010,4.0,2.0,Front-Wheel Drive,Automatic (variable gear ratios),Small Station Wagons,Regular Gasoline,47.5,0.5,23.75
+1992,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+1988,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,43.63636363636363,0.55,24.0
+1986,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2018,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Large Cars,Regular Gasoline,64.66666666666667,0.375,24.25
+1996,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,50.0,0.4,20.0
+1989,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1997,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1999,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Minicompact Cars,Regular Gasoline,30.833333333333336,0.6,18.5
+1989,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+2012,6.0,2.7,Front-Wheel Drive,Automatic 5-spd,Midsize Station Wagons,Regular Gasoline,40.0,0.45,18.0
+1988,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+2017,4.0,1.4,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,67.14285714285715,0.35,23.5
+1998,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+1993,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1991,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1988,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+1985,4.0,1.6,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+1989,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+2023,6.0,2.9,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.48333333333333334,16.333333333333332
+1991,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1985,4.0,1.9,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1994,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+1996,8.0,5.7,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,Regular Gasoline,14.736842105263158,0.7125,10.5
+1993,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Large Cars,Regular Gasoline,43.04347826086957,0.575,24.75
+1994,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+1991,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.25,0.4,20.5
+2016,4.0,1.4,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,69.28571428571429,0.35,24.25
+1993,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1987,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1998,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1999,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+2019,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+2002,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+1988,6.0,2.8,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+1990,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1993,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+2005,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.0,0.5,23.5
+2017,3.0,1.5,Front-Wheel Drive,Automatic (S6),Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+1997,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1989,4.0,2.4,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,29.583333333333336,0.6,17.75
+2005,4.0,1.7,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,50.0,0.425,21.25
+1985,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,43.333333333333336,0.45,19.5
+1984,6.0,2.8,,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.142857142857146,0.4666666666666666,12.666666666666666
+2019,4.0,1.4,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1999,5.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+1987,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+2025,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Compact Cars,Regular Gasoline,46.5,0.5,23.25
+1990,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+2012,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1987,4.0,1.4,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+1985,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,24.333333333333332,0.5,12.166666666666666
+1989,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+2001,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Premium Gasoline,47.77777777777778,0.45,21.5
+2012,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+2001,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,59.230769230769226,0.325,19.25
+1992,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1987,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1985,4.0,1.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+2019,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+1990,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,25.0,0.5,12.5
+2007,6.0,2.8,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,Regular Gasoline,34.285714285714285,0.4666666666666666,16.0
+1984,4.0,2.6,,Manual 5-spd,Subcompact Cars,Regular Gasoline,29.23076923076923,0.65,19.0
+1997,6.0,3.0,4-Wheel or All-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2016,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+2017,4.0,1.8,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,51.666666666666664,0.45,23.25
+2022,4.0,2.0,Front-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Diesel,42.5,0.5,21.25
+1991,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2006,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1984,4.0,1.7,,Manual 4-spd,Subcompact Cars,Diesel,48.23529411764706,0.425,20.5
+1987,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,41.5,0.5,20.75
+2018,4.0,1.6,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,Diesel,59.375,0.4,23.75
+1989,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,38.4,0.625,24.0
+2003,4.0,1.9,Front-Wheel Drive,Automatic 5-spd,Small Station Wagons,Premium Gasoline,46.8421052631579,0.475,22.25
+1990,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,35.6,0.625,22.25
+1991,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+2024,4.0,2.0,Front-Wheel Drive,Automatic (S8),Subcompact Cars,Premium Gasoline,40.0,0.5,20.0
+2014,3.0,1.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,71.66666666666667,0.39999999999999997,28.666666666666668
+1999,6.0,3.2,4-Wheel or All-Wheel Drive,Automatic 5-spd,Midsize Station Wagons,Premium Gasoline,30.625,0.5333333333333333,16.333333333333332
+1992,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+2012,4.0,1.3,Front-Wheel Drive,Automatic (variable gear ratios),Minicompact Cars,Regular Gasoline,56.92307692307692,0.325,18.5
+1987,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+2003,6.0,3.0,Rear-Wheel Drive,Automatic (S5),Compact Cars,Premium Gasoline,29.666666666666668,0.5,14.833333333333334
+1991,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2007,6.0,3.0,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,32.0,0.5,16.0
+1989,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,33.2,0.625,20.75
+1989,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,36.08695652173913,0.575,20.75
+2016,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.5,0.5,22.75
+2010,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+1991,3.0,1.2,4-Wheel or All-Wheel Drive,Automatic (variable gear ratios),Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+2004,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,55.0,0.4,22.0
+2004,4.0,1.8,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Premium Gasoline,43.333333333333336,0.45,19.5
+1996,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1984,4.0,2.0,,Manual 4-spd,Compact Cars,Regular Gasoline,42.0,0.5,21.0
+1988,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,74.0,0.3333333333333333,24.666666666666668
+1987,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Two Seaters,Regular Gasoline,16.333333333333332,0.5,8.166666666666666
+2017,4.0,1.4,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,67.14285714285715,0.35,23.5
+1993,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1993,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2005,4.0,2.0,Front-Wheel Drive,Automatic (S5),Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+1995,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+1986,4.0,1.8,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,46.666666666666664,0.45,21.0
+1985,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+1992,6.0,1.9,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.10526315789474,0.31666666666666665,13.333333333333334
+1985,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,36.08695652173913,0.575,20.75
+1985,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,42.0,0.5,21.0
+2002,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 6-spd,Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,44.54545454545454,0.55,24.5
+1994,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1986,4.0,1.6,Rear-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+1991,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+1993,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+1997,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.0,0.5,20.0
+1994,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1986,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2009,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+2006,4.0,2.4,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Regular Gasoline,33.333333333333336,0.6,20.0
+1986,6.0,3.8,Rear-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,22.105263157894736,0.6333333333333333,14.0
+1990,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Premium Gasoline,41.36363636363636,0.55,22.75
+2010,5.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,34.0,0.5,17.0
+2015,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,85.0,0.3333333333333333,28.333333333333332
+1984,4.0,1.8,,Manual 5-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1987,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+1990,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Premium Gasoline,43.18181818181818,0.55,23.75
+1989,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,54.666666666666664,0.375,20.5
+1993,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+2014,4.0,1.6,All-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2021,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+2016,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+2004,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+1994,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+2006,5.0,2.5,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,37.6,0.5,18.8
+1987,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,35.0,0.55,19.25
+1993,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+2010,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+1990,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.0,0.5,13.5
+1995,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,23.0,0.5,11.5
+1998,4.0,2.0,4-Wheel or All-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+2023,4.0,2.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,45.5,0.5,22.75
+1998,6.0,2.9,Rear-Wheel Drive,Automatic 4-spd,Small Station Wagons,Premium Gasoline,31.724137931034484,0.48333333333333334,15.333333333333334
+1996,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,25.0,0.5,12.5
+2024,4.0,2.0,Part-time 4-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,45.5,0.5,22.75
+2007,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1991,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,40.45454545454545,0.55,22.25
+1987,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,39.0,0.5,19.5
+2013,4.0,1.4,Front-Wheel Drive,Automatic (AM6),Midsize Cars,Premium Gasoline,69.28571428571429,0.35,24.25
+2013,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Diesel,47.0,0.5,23.5
+2009,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,59.375,0.4,23.75
+1989,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+1985,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+2000,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,43.333333333333336,0.45,19.5
+2002,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+2005,5.0,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd,Small Station Wagons,Premium Gasoline,37.2,0.5,18.6
+1989,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1990,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,51.11111111111111,0.45,23.0
+2018,3.0,1.5,All-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+1984,4.0,2.0,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,39.0,0.5,19.5
+1990,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1992,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1991,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,79.0,0.3333333333333333,26.333333333333332
+1994,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1989,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,55.0,0.4,22.0
+2020,3.0,1.5,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,53.333333333333336,0.5,26.666666666666668
+1988,4.0,2.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,38.0,0.5,19.0
+1999,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Regular Gasoline,46.52173913043479,0.575,26.75
+1987,6.0,2.8,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+2023,6.0,3.0,4-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,30.333333333333332,0.5,15.166666666666666
+1985,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+1984,4.0,1.3,,Manual 4-spd,Minicompact Cars,Regular Gasoline,56.15384615384615,0.325,18.25
+2014,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Premium Gasoline,47.0,0.5,23.5
+2015,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+1999,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1999,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+2012,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,36.0,0.625,22.5
+2008,4.0,2.3,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,41.30434782608696,0.575,23.75
+1997,4.0,2.0,4-Wheel or All-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1992,6.0,1.9,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,42.10526315789474,0.31666666666666665,13.333333333333334
+1984,8.0,5.0,,Manual 5-spd,Subcompact Cars,Regular Gasoline,17.0,0.625,10.625
+2000,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+2002,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,56.875,0.4,22.75
+1998,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,60.666666666666664,0.375,22.75
+2004,4.0,1.9,Front-Wheel Drive,Automatic (S5),Compact Cars,Diesel,46.31578947368421,0.475,22.0
+2017,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Premium Gasoline,64.66666666666667,0.5,32.333333333333336
+2003,8.0,5.0,4-Wheel or All-Wheel Drive,Automatic 5-spd,Sport Utility Vehicle - 4WD,Premium Gasoline,24.8,0.625,15.5
+1984,6.0,3.0,,Automatic 4-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+1990,4.0,2.4,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Regular Gasoline,29.583333333333336,0.6,17.75
+1989,4.0,1.3,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,66.92307692307692,0.325,21.75
+2000,6.0,3.0,4-Wheel or All-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Regular Gasoline,33.666666666666664,0.5,16.833333333333332
+2010,4.0,2.0,Front-Wheel Drive,Automatic (S6),Small Station Wagons,Diesel,44.5,0.5,22.25
+1995,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+1987,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,54.666666666666664,0.375,20.5
+2016,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,60.0,0.375,22.5
+1997,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,40.0,0.6,24.0
+1993,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,36.08695652173913,0.575,20.75
+1989,3.0,1.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1993,6.0,2.9,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,32.758620689655174,0.48333333333333334,15.833333333333334
+1995,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+2023,4.0,2.0,Front-Wheel Drive,Automatic (AV-S10),Compact Cars,Regular Gasoline,42.5,0.5,21.25
+1985,4.0,1.3,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,53.84615384615385,0.325,17.5
+1987,4.0,1.4,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+1992,4.0,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+2009,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1984,4.0,2.2,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+1985,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+1999,5.0,2.4,4-Wheel or All-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+1990,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+2009,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,56.875,0.4,22.75
+1994,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,29.666666666666668,0.5,14.833333333333334
+2005,5.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+1985,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Premium Gasoline,50.625,0.4,20.25
+2025,4.0,2.0,Part-time 4-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,45.5,0.5,22.75
+2007,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1984,4.0,1.6,,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1993,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,51.875,0.4,20.75
+1998,8.0,5.7,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,14.736842105263158,0.7125,10.5
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+2003,6.0,3.2,Rear-Wheel Drive,Manual 6-spd,Small Station Wagons,Premium Gasoline,27.8125,0.5333333333333333,14.833333333333334
+1992,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1994,8.0,5.7,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,14.385964912280702,0.7125,10.25
+2018,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+2016,4.0,2.4,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,Regular Gasoline,40.41666666666667,0.6,24.25
+1994,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1989,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+1996,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1984,4.0,1.6,,Automatic 3-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+2014,4.0,1.4,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+2014,12.0,6.3,Part-time 4-Wheel Drive,Automatic (AM7),Midsize Cars,Premium Gasoline,14.285714285714286,0.525,7.5
+1986,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,33.2,0.625,20.75
+2002,4.0,1.8,Front-Wheel Drive,Automatic (S5),Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+1984,4.0,1.7,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,46.470588235294116,0.425,19.75
+2004,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1986,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+2017,4.0,1.4,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1992,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,32.4,0.625,20.25
+1995,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+2004,4.0,1.7,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,50.0,0.425,21.25
+2020,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,58.0,0.375,21.75
+2022,4.0,1.6,Front-Wheel Drive,Automatic (AM-S6),Large Cars,Regular Gasoline,60.0,0.4,24.0
+2011,4.0,1.5,Front-Wheel Drive,Manual 6-spd,Two Seaters,Regular Gasoline,46.0,0.375,17.25
+1985,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1992,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+2019,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,56.875,0.4,22.75
+1984,6.0,2.8,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+1985,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+2006,5.0,2.5,4-Wheel or All-Wheel Drive,Automatic (S6),Midsize Station Wagons,Premium Gasoline,39.2,0.5,19.6
+1990,4.0,1.9,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1999,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,59.230769230769226,0.325,19.25
+1988,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+1993,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+1986,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1990,4.0,1.5,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+2016,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1997,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.0,0.5,20.0
+2009,4.0,2.4,Front-Wheel Drive,Automatic (S4),Subcompact Cars,Regular Gasoline,34.16666666666667,0.6,20.5
+2020,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,40.0,0.5,20.0
+1987,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.0,0.5,19.5
+1986,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,35.0,0.55,19.25
+2011,4.0,1.3,Front-Wheel Drive,Automatic (variable gear ratios),Minicompact Cars,Regular Gasoline,56.92307692307692,0.325,18.5
+1984,4.0,2.6,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,29.23076923076923,0.65,19.0
+1998,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+1987,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,48.33333333333333,0.45,21.75
+2018,4.0,1.4,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1984,4.0,1.4,,Manual 4-spd,Subcompact Cars,Regular Gasoline,55.0,0.35,19.25
+1991,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1986,4.0,2.5,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,24.8,0.625,15.5
+1996,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2004,6.0,2.8,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,31.42857142857143,0.4666666666666666,14.666666666666666
+2017,4.0,2.0,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+2020,6.0,3.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,31.666666666666668,0.5,15.833333333333334
+1989,6.0,2.8,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,33.92857142857143,0.4666666666666666,15.833333333333334
+1992,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+2005,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,41.73913043478261,0.575,24.0
+2019,4.0,2.5,4-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,37.2,0.625,23.25
+2015,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,53.333333333333336,0.5,26.666666666666668
+2024,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,46.5,0.5,23.25
+2014,4.0,2.0,Front-Wheel Drive,Automatic (AM6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+2013,4.0,2.4,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,40.41666666666667,0.6,24.25
+2005,4.0,1.8,Front-Wheel Drive,Automatic (S6),Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+1986,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,35.0,0.55,19.25
+2006,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 6-spd,Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+1993,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Regular Gasoline,35.0,0.4,14.0
+1986,4.0,1.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Diesel,43.888888888888886,0.45,19.75
+1987,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,17.0,0.625,10.625
+1986,4.0,2.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,38.0,0.5,19.0
+1991,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1993,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.333333333333336,0.375,19.25
+1985,4.0,1.4,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,62.85714285714286,0.35,22.0
+1993,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Regular Gasoline,28.0,0.5,14.0
+1991,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,37.0,0.5,18.5
+1986,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Minicompact Cars,Regular Gasoline,74.0,0.3333333333333333,24.666666666666668
+2017,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1999,4.0,1.9,Rear-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,45.78947368421053,0.475,21.75
+2020,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,49.0,0.5,24.5
+1991,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+2016,4.0,1.4,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Premium Gasoline,63.57142857142858,0.35,22.25
+1987,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,50.625,0.4,20.25
+1984,8.0,4.7,,Manual 5-spd,Minicompact Cars,Regular Gasoline,15.74468085106383,0.5875,9.25
+2017,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+2003,6.0,3.2,Rear-Wheel Drive,Automatic 5-spd,Compact Cars,Premium Gasoline,26.5625,0.5333333333333333,14.166666666666666
+1994,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+1991,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Regular Gasoline,43.5,0.5,21.75
+2023,4.0,2.0,Front-Wheel Drive,Automatic (AV-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1987,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.333333333333336,0.375,20.0
+1991,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+2007,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,47.0,0.5,23.5
+1987,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,25.333333333333332,0.5,12.666666666666666
+1994,6.0,3.0,4-Wheel or All-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+2017,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,58.75,0.4,23.5
+1990,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,41.36363636363636,0.55,22.75
+1987,4.0,2.5,Rear-Wheel Drive,Automatic 3-spd,Minicompact Cars,Regular Gasoline,25.2,0.625,15.75
+1988,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,25.333333333333332,0.5,12.666666666666666
+1988,8.0,5.0,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,14.8,0.625,9.25
+2003,6.0,3.2,4-Wheel or All-Wheel Drive,Automatic 5-spd,Small Station Wagons,Premium Gasoline,27.8125,0.5333333333333333,14.833333333333334
+1986,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.55555555555556,0.45,18.25
+2009,4.0,2.0,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,37.0,0.5,18.5
+2022,4.0,2.0,Front-Wheel Drive,Automatic (AV-S10),Compact Cars,Regular Gasoline,42.5,0.5,21.25
+1989,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Large Cars,Regular Gasoline,51.5,0.5,25.75
+1991,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+2007,4.0,1.8,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,52.77777777777778,0.45,23.75
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+1989,4.0,2.6,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+1985,6.0,2.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,30.000000000000004,0.4666666666666666,14.0
+1987,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,44.5,0.5,22.25
+1992,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+1991,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,60.76923076923077,0.325,19.75
+2019,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.125,0.4,21.25
+1988,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,44.0,0.5,22.0
+1986,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Premium Gasoline,37.72727272727273,0.55,20.75
+2019,4.0,1.6,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,58.75,0.4,23.5
+1984,4.0,2.6,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,29.23076923076923,0.65,19.0
+1985,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,16.8,0.625,10.5
+2013,4.0,1.6,Front-Wheel Drive,Automatic 6-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+2002,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.5,0.5,21.25
+1984,8.0,5.0,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,16.8,0.625,10.5
+1992,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,56.0,0.375,21.0
+2009,4.0,2.4,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,Premium Gasoline,39.583333333333336,0.6,23.75
+1996,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,23.0,0.5,11.5
+1992,4.0,2.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,32.4,0.625,20.25
+2017,4.0,2.0,Front-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+1989,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,63.07692307692307,0.325,20.5
+1984,4.0,1.6,,Manual 5-spd,Subcompact Cars,Regular Gasoline,51.875,0.4,20.75
+1984,8.0,5.0,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,16.8,0.625,10.5
+1984,4.0,1.8,,Automatic 3-spd,Compact Cars,Regular Gasoline,46.11111111111111,0.45,20.75
+1984,4.0,2.2,,Manual 5-spd,Compact Cars,Regular Gasoline,38.63636363636363,0.55,21.25
+1984,4.0,1.6,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+2024,4.0,2.0,All-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,46.5,0.5,23.25
+2021,3.0,1.2,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,Regular Gasoline,71.66666666666667,0.39999999999999997,28.666666666666668
+1995,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,68.46153846153845,0.325,22.25
+1998,5.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,41.25,0.48,19.8
+1989,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,39.130434782608695,0.575,22.5
+1991,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,50.55555555555556,0.45,22.75
+2016,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+1998,8.0,5.7,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,14.385964912280702,0.7125,10.25
+1984,4.0,1.6,,Manual 5-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+1985,4.0,1.6,Rear-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,49.375,0.4,19.75
+2006,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2012,5.0,2.5,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,37.6,0.5,18.8
+2020,4.0,1.6,Front-Wheel Drive,Automatic (AM-S7),Large Cars,Regular Gasoline,60.625,0.4,24.25
+2022,4.0,2.0,Front-Wheel Drive,Automatic (AV-S7),Large Cars,Regular Gasoline,49.5,0.5,24.75
+2012,4.0,2.0,Front-Wheel Drive,Automatic (S6),Subcompact Cars,Premium Gasoline,42.5,0.5,21.25
+1999,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,59.230769230769226,0.325,19.25
+2014,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+1997,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Large Cars,Regular Gasoline,33.0,0.5,16.5
+1993,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,53.33333333333333,0.45,24.0
+1986,4.0,1.9,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1987,4.0,1.9,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+2023,4.0,1.6,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,58.125,0.4,23.25
+1988,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,33.47826086956522,0.575,19.25
+1997,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,40.0,0.575,23.0
+2020,4.0,1.6,Front-Wheel Drive,Automatic (AM6),Large Cars,Regular Gasoline,60.0,0.4,24.0
+2011,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1990,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+2014,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1989,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,55.625,0.4,22.25
+1985,6.0,2.8,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,33.92857142857143,0.4666666666666666,15.833333333333334
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,35.0,0.55,19.25
+1984,4.0,2.0,,Manual 5-spd,Compact Cars,Regular Gasoline,41.5,0.5,20.75
+2015,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Diesel,42.5,0.5,21.25
+1998,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1985,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,44.54545454545454,0.55,24.5
+1998,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Diesel,45.78947368421053,0.475,21.75
+1985,6.0,3.0,Rear-Wheel Drive,Manual 5-spd,Two Seaters,Regular Gasoline,16.666666666666668,0.5,8.333333333333334
+1991,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,14.8,0.625,9.25
+2005,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,47.5,0.5,23.75
+2018,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1986,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1986,4.0,2.3,Rear-Wheel Drive,Manual 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1988,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1994,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2011,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,57.5,0.4,23.0
+1989,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,55.0,0.4,22.0
+2022,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,56.0,0.5,28.0
+2018,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+1988,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Large Cars,Regular Gasoline,51.5,0.5,25.75
+1986,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.375,17.5
+2012,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Regular Gasoline,45.0,0.6,27.0
+2013,4.0,1.4,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1991,4.0,1.6,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,51.875,0.4,20.75
+2012,4.0,1.8,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,52.22222222222222,0.45,23.5
+1993,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1986,4.0,1.9,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1985,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,16.6,0.625,10.375
+1992,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,33.63636363636363,0.55,18.5
+1986,4.0,1.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.22222222222222,0.45,19.0
+1994,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+2004,5.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+2023,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,42.0,0.5,21.0
+1987,4.0,1.9,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.73684210526316,0.475,21.25
+1985,4.0,1.6,Front-Wheel Drive,Manual 4-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+1990,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,14.8,0.625,9.25
+1998,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,37.0,0.5,18.5
+1989,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,17.0,0.625,10.625
+1989,4.0,2.3,Rear-Wheel Drive,Automatic 4-spd,Midsize-Large Station Wagons,Regular Gasoline,41.30434782608696,0.575,23.75
+1986,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+1997,8.0,5.7,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,14.736842105263158,0.7125,10.5
+2007,5.0,2.4,Front-Wheel Drive,Automatic 5-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+2018,4.0,2.0,All-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,45.5,0.5,22.75
+1986,4.0,1.6,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,55.0,0.4,22.0
+1999,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,39.5,0.5,19.75
+1993,4.0,1.3,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,63.07692307692307,0.325,20.5
+1984,6.0,3.8,,Automatic 3-spd,Subcompact Cars,Regular Gasoline,22.105263157894736,0.6333333333333333,14.0
+1994,4.0,3.0,Rear-Wheel Drive,Manual 6-spd,Minicompact Cars,Regular Gasoline,21.0,0.75,15.75
+2001,4.0,1.8,4-Wheel or All-Wheel Drive,Manual 6-spd,Minicompact Cars,Premium Gasoline,36.11111111111111,0.45,16.25
+1986,8.0,5.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,17.0,0.625,10.625
+2023,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+2022,6.0,2.9,All-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.48333333333333334,16.333333333333332
+2005,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,49.0,0.5,24.5
+1997,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.0,0.5,20.0
+1999,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+2021,4.0,2.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,48.5,0.5,24.25
+2024,4.0,2.0,Front-Wheel Drive,Automatic (AV-S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1996,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,42.77777777777778,0.45,19.25
+2012,4.0,1.4,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,54.28571428571429,0.35,19.0
+1985,4.0,2.6,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,29.23076923076923,0.65,19.0
+2015,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,46.5,0.5,23.25
+2013,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Premium Gasoline,42.5,0.5,21.25
+1999,5.0,2.4,Front-Wheel Drive,Automatic 4-spd,Midsize Station Wagons,Premium Gasoline,40.833333333333336,0.48,19.6
+1986,4.0,1.5,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,54.0,0.375,20.25
+1986,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+2021,3.0,1.5,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,56.0,0.5,28.0
+1984,4.0,1.8,,Manual 5-spd,Subcompact Cars,Regular Gasoline,40.55555555555556,0.45,18.25
+1990,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,57.333333333333336,0.375,21.5
+2014,4.0,2.0,Front-Wheel Drive,Automatic (AM-S6),Compact Cars,Diesel,47.0,0.5,23.5
+1992,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+2007,4.0,1.8,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,Regular Gasoline,52.77777777777778,0.45,23.75
+1991,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,45.0,0.45,20.25
+1998,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1984,4.0,1.6,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,48.75,0.4,19.5
+1984,4.0,2.0,,Automatic 3-spd,Compact Cars,Regular Gasoline,43.5,0.5,21.75
+2022,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Compact Cars,Regular Gasoline,42.5,0.5,21.25
+2017,4.0,2.0,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,48.0,0.5,24.0
+1990,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Premium Gasoline,43.18181818181818,0.55,23.75
+1994,8.0,5.7,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,14.736842105263158,0.7125,10.5
+1992,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+1984,4.0,2.5,,Automatic 3-spd,Midsize Cars,Regular Gasoline,38.0,0.625,23.75
+1989,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,33.2,0.625,20.75
+1989,6.0,2.8,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+1992,4.0,3.0,Rear-Wheel Drive,Automatic (S4),Minicompact Cars,Premium Gasoline,21.0,0.75,15.75
+1993,6.0,3.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Premium Gasoline,27.333333333333332,0.5,13.666666666666666
+1985,4.0,2.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,38.0,0.5,19.0
+2013,6.0,3.0,All-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,31.333333333333332,0.5,15.666666666666666
+2015,4.0,2.0,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,Regular Gasoline,48.5,0.5,24.25
+2014,4.0,2.0,Rear-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,49.0,0.5,24.5
+1988,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1994,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+2013,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,50.0,0.4,20.0
+2021,3.0,1.5,Front-Wheel Drive,Automatic (AM-S7),Subcompact Cars,Premium Gasoline,53.333333333333336,0.5,26.666666666666668
+2021,4.0,2.0,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,Regular Gasoline,42.0,0.5,21.0
+2012,4.0,1.6,Front-Wheel Drive,Automatic 6-spd,Compact Cars,Regular Gasoline,56.25,0.4,22.5
+1994,4.0,2.4,Front-Wheel Drive,Manual 5-spd,Midsize-Large Station Wagons,Regular Gasoline,40.0,0.6,24.0
+2008,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+2019,4.0,2.5,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,37.2,0.625,23.25
+1997,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Minicompact Cars,Regular Gasoline,30.833333333333336,0.6,18.5
+2020,4.0,1.5,Front-Wheel Drive,Manual 6-spd,Large Cars,Premium Gasoline,64.66666666666667,0.375,24.25
+1994,8.0,5.7,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,14.385964912280702,0.7125,10.25
+2018,4.0,2.0,Front-Wheel Drive,Automatic (S6),Large Cars,Regular Gasoline,49.0,0.5,24.5
+2019,12.0,6.3,Part-time 4-Wheel Drive,Automatic (AM7),Minicompact Cars,Premium Gasoline,10.952380952380953,0.525,5.75
+2018,4.0,2.0,Front-Wheel Drive,Automatic (S8),Midsize Cars,Premium Gasoline,47.0,0.5,23.5
+1985,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,35.0,0.55,19.25
+1984,6.0,2.8,,Automatic 4-spd,Subcompact Cars,Regular Gasoline,30.357142857142858,0.4666666666666666,14.166666666666666
+1985,6.0,2.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,27.142857142857146,0.4666666666666666,12.666666666666666
+1995,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,39.5,0.5,19.75
+1998,6.0,3.0,Rear-Wheel Drive,Automatic 4-spd,Minicompact Cars,Premium Gasoline,23.0,0.5,11.5
+2003,8.0,5.0,4-Wheel or All-Wheel Drive,Automatic 5-spd,Sport Utility Vehicle - 4WD,Premium Gasoline,21.0,0.625,13.125
+2018,4.0,2.0,Front-Wheel Drive,Automatic (AM6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+2014,5.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,34.0,0.5,17.0
+2023,3.0,1.5,All-Wheel Drive,Automatic (S6),Midsize Cars,Premium Gasoline,63.333333333333336,0.5,31.666666666666668
+1994,3.0,1.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,65.83333333333334,0.39999999999999997,26.333333333333332
+1984,4.0,1.6,,Manual 5-spd,Compact Cars,Regular Gasoline,53.125,0.4,21.25
+1988,4.0,2.0,Rear-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,38.5,0.5,19.25
+1989,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,43.0,0.5,21.5
+2013,4.0,2.4,4-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,Regular Gasoline,45.0,0.6,27.0
+2016,4.0,1.6,All-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2004,6.0,3.0,Front-Wheel Drive,Automatic (S5),Midsize Cars,Regular Gasoline,32.0,0.5,16.0
+1997,8.0,5.7,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,Premium Gasoline,14.736842105263158,0.7125,10.5
+2014,4.0,1.6,Front-Wheel Drive,Automatic (S6),Compact Cars,Premium Gasoline,54.375,0.4,21.75
+2006,4.0,2.3,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,41.30434782608696,0.575,23.75
+2019,4.0,2.0,Front-Wheel Drive,Automatic (AM-S7),Compact Cars,Regular Gasoline,46.5,0.5,23.25
+1998,6.0,3.1,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Regular Gasoline,31.93548387096774,0.5166666666666667,16.5
+2000,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,43.0,0.5,21.5
+2022,6.0,3.0,4-Wheel Drive,Automatic (AM-S7),Midsize Cars,Premium Gasoline,31.666666666666668,0.5,15.833333333333334
+2016,4.0,1.6,Front-Wheel Drive,Manual 6-spd,Large Cars,Regular Gasoline,61.25,0.4,24.5
+1986,4.0,1.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,56.666666666666664,0.375,21.25
+1985,6.0,2.8,Front-Wheel Drive,Manual 4-spd,Compact Cars,Regular Gasoline,30.000000000000004,0.4666666666666666,14.0
+2000,4.0,1.8,Front-Wheel Drive,Manual 5-spd,Compact Cars,Premium Gasoline,48.888888888888886,0.45,22.0
+1986,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Diesel,42.5,0.5,21.25
+2003,4.0,1.8,Rear-Wheel Drive,Manual 6-spd,Compact Cars,Premium Gasoline,47.22222222222222,0.45,21.25
+1990,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,32.4,0.625,20.25
+1986,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+1999,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,Premium Gasoline,37.0,0.5,18.5
+2015,4.0,2.5,Front-Wheel Drive,Automatic (S6),Midsize Cars,Regular Gasoline,38.4,0.625,24.0
+2020,4.0,2.0,All-Wheel Drive,Automatic (S8),Large Cars,Premium Gasoline,50.5,0.5,25.25
+2006,5.0,2.5,4-Wheel or All-Wheel Drive,Manual 6-spd,Midsize Station Wagons,Premium Gasoline,39.2,0.5,19.6
+2005,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,39.56521739130435,0.575,22.75
+2019,4.0,1.5,Front-Wheel Drive,Automatic (variable gear ratios),Large Cars,Regular Gasoline,64.66666666666667,0.375,24.25
+1997,4.0,2.3,Front-Wheel Drive,Automatic 4-spd,Large Cars,Regular Gasoline,43.04347826086957,0.575,24.75
+1990,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,38.18181818181818,0.55,21.0
+1984,4.0,1.6,,Manual 4-spd,Subcompact Cars,Regular Gasoline,48.125,0.4,19.25
+1986,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Compact Cars,Diesel,42.5,0.5,21.25
+1986,4.0,2.3,Rear-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,39.130434782608695,0.575,22.5
+1986,4.0,1.5,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,46.666666666666664,0.375,17.5
+1986,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,37.72727272727273,0.55,20.75
+2021,6.0,2.9,Rear-Wheel Drive,Automatic (AM-S8),Large Cars,Premium Gasoline,33.793103448275865,0.48333333333333334,16.333333333333332
+1995,4.0,2.2,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,Regular Gasoline,42.72727272727273,0.55,23.5
+1985,6.0,2.8,Rear-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,30.000000000000004,0.4666666666666666,14.0
+1990,4.0,2.0,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,40.5,0.5,20.25
+2003,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Subcompact Cars,Regular Gasoline,32.91666666666667,0.6,19.75
+2017,4.0,1.4,Front-Wheel Drive,Manual 6-spd,Midsize Cars,Regular Gasoline,67.14285714285715,0.35,23.5
+1989,4.0,2.0,Front-Wheel Drive,Automatic 3-spd,Compact Cars,Regular Gasoline,44.0,0.5,22.0
+2015,4.0,2.0,Front-Wheel Drive,Automatic (S6),Compact Cars,Regular Gasoline,45.0,0.5,22.5
+1989,3.0,1.0,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,82.0,0.3333333333333333,27.333333333333332
+1992,4.0,2.2,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Premium Gasoline,43.18181818181818,0.55,23.75
+1995,4.0,2.0,Front-Wheel Drive,Manual 5-spd,Midsize Cars,Regular Gasoline,46.0,0.5,23.0
+1988,4.0,1.6,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,53.75,0.4,21.5
+1987,4.0,2.2,Front-Wheel Drive,Automatic 3-spd,Midsize Cars,Regular Gasoline,43.18181818181818,0.55,23.75
+1995,6.0,2.5,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,Regular Gasoline,36.8,0.4166666666666667,15.333333333333334
+1994,6.0,3.0,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,Regular Gasoline,27.333333333333332,0.5,13.666666666666666
+2010,4.0,2.5,Front-Wheel Drive,Automatic (S5),Compact Cars,Regular Gasoline,38.0,0.625,23.75
+2019,4.0,2.0,Front-Wheel Drive,Automatic (S6),Large Cars,Regular Gasoline,48.5,0.5,24.25
+1994,4.0,2.5,Front-Wheel Drive,Manual 5-spd,Compact Cars,Regular Gasoline,35.6,0.625,22.25
+1999,4.0,1.3,Front-Wheel Drive,Automatic 3-spd,Subcompact Cars,Regular Gasoline,59.230769230769226,0.325,19.25
+2018,4.0,2.0,Front-Wheel Drive,Manual 6-spd,Large Cars,Regular Gasoline,48.5,0.5,24.25
+1992,4.0,2.0,4-Wheel or All-Wheel Drive,Manual 5-spd,Subcompact Cars,Premium Gasoline,40.5,0.5,20.25
+1991,4.0,1.8,Front-Wheel Drive,Automatic 4-spd,Compact Cars,Regular Gasoline,51.11111111111111,0.45,23.0
+2020,4.0,1.5,Front-Wheel Drive,Automatic (AV-S7),Large Cars,Premium Gasoline,64.66666666666667,0.375,24.25
+1996,4.0,2.4,Front-Wheel Drive,Automatic 4-spd,Minicompact Cars,Regular Gasoline,30.833333333333336,0.6,18.5
