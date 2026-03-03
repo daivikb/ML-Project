@@ -135,7 +135,6 @@ def plot_gauge(pred_mpg, model_name):
                 {"range": [20, 35],  "color": "#1f1a0a"},
                 {"range": [35, 120], "color": "#0a1f14"},
             ],
-            "threshold": {"line": {"color": "white", "width": 2}, "thickness": 0.75, "value": 25},
         },
         title={"text": model_name, "font": {"color": "#888", "size": 13}},
         number={"suffix": " MPG", "font": {"size": 52, "color": color}},
