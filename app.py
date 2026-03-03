@@ -8,9 +8,9 @@ import joblib
 import pandas as pd
 import numpy as np
 import streamlit as st
-import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
-st.set_page_config(page_title="MPG Predictor", layout="wide")
+st.set_page_config(page_title="MPG Predictor", layout="wide", page_icon="⛽")
 
 # Configuration for our app
 ART_DIR = "artifacts"
@@ -41,7 +41,6 @@ if not os.path.exists(RANGES_PATH):
     st.stop()
 
 ranges = pd.read_csv(RANGES_PATH, index_col=0)
-
 cat_options = joblib.load(CAT_OPTIONS_PATH) if os.path.exists(CAT_OPTIONS_PATH) else {"drive": [], "trany": [], "VClass": [], "fuelType1": []}
 numeric_features = joblib.load(NUM_FEATURES_PATH) if os.path.exists(NUM_FEATURES_PATH) else []
 categorical_features = joblib.load(CAT_FEATURES_PATH) if os.path.exists(CAT_FEATURES_PATH) else ["drive", "trany", "VClass", "fuelType1"]
@@ -71,101 +70,171 @@ if len(models) == 0:
 def clamp_to_range(col: str, value: float) -> float:
     if col not in ranges.index or value is None or pd.isna(value):
         return float(value) if value is not None and not pd.isna(value) else 0.0
-    mn = float(ranges.loc[col, "min"])
-    mx = float(ranges.loc[col, "max"])
+    mn, mx = float(ranges.loc[col, "min"]), float(ranges.loc[col, "max"])
     return float(min(max(float(value), mn), mx))
 
 def safe_div(a, b):
-    if pd.isna(a) or pd.isna(b) or b == 0:
-        return np.nan
-    return float(a) / float(b)
+    return np.nan if (pd.isna(a) or pd.isna(b) or b == 0) else float(a) / float(b)
 
-def compute_ratios_from_row(row: pd.Series) -> dict:
-    hpv = row.get("hpv", np.nan)
-    displ = row.get("displ", np.nan)
-    cylinders = row.get("cylinders", np.nan)
-    return {
-        "hp_per_liter": safe_div(hpv, displ),
-        "liter_per_cyl": safe_div(displ, cylinders),
-        "hp_per_cyl": safe_div(hpv, cylinders),
-    }
+def compute_ratios_from_row(row):
+    hpv, displ, cyl = row.get("hpv", np.nan), row.get("displ", np.nan), row.get("cylinders", np.nan)
+    return {"hp_per_liter": safe_div(hpv, displ), "liter_per_cyl": safe_div(displ, cyl), "hp_per_cyl": safe_div(hpv, cyl)}
 
 def get_transformed_feature_names(pipeline):
-    preprocess = pipeline.named_steps["preprocess"]
-    num_features_out = preprocess.transformers_[0][2]
-    cat_pipe = preprocess.transformers_[1][1]
-    cat_features_in = preprocess.transformers_[1][2]
-    ohe = cat_pipe.named_steps["onehot"]
-    cat_names_out = ohe.get_feature_names_out(cat_features_in)
-    return np.concatenate([np.array(num_features_out, dtype=str), cat_names_out])
+    pre = pipeline.named_steps["preprocess"]
+    num_out = pre.transformers_[0][2]
+    ohe = pre.transformers_[1][1].named_steps["onehot"]
+    cat_out = ohe.get_feature_names_out(pre.transformers_[1][2])
+    return np.concatenate([np.array(num_out, dtype=str), cat_out])
 
 def get_importance_series(pipeline):
     names = get_transformed_feature_names(pipeline)
     reg = pipeline.named_steps["regressor"]
-
     if hasattr(reg, "coef_"):
-        vals = reg.coef_
-        s = pd.Series(vals, index=names).sort_values(key=np.abs, ascending=False)
-        return s, "Coefficient (signed)"
-
+        return pd.Series(reg.coef_, index=names).sort_values(key=np.abs, ascending=False), "Coefficient (signed)"
     if hasattr(reg, "feature_importances_"):
-        vals = reg.feature_importances_
-        s = pd.Series(vals, index=names).sort_values(ascending=False)
-        return s, "Feature importance"
-
+        return pd.Series(reg.feature_importances_, index=names).sort_values(ascending=False), "Feature importance"
     return pd.Series(dtype=float), "Importance"
 
-def predict_all_models(X_one: pd.DataFrame) -> pd.DataFrame:
+def predict_all_models(X_one):
     preds = []
     for name, pipe in models.items():
         try:
             yhat = float(pipe.predict(X_one)[0])
         except Exception:
             yhat = np.nan
-        preds.append({"Model": name, "Predicted MPG": yhat})
+        preds.append({"Model": name, "Predicted MPG": round(yhat, 2)})
     return pd.DataFrame(preds)
 
-def build_X_from_row_dict(row: dict) -> pd.DataFrame:
+def build_X_from_row_dict(row):
     if selected_features:
-        # fill missing
         for c in selected_features:
             if c not in row:
                 row[c] = np.nan
         return pd.DataFrame([[row[c] for c in selected_features]], columns=selected_features)
     return pd.DataFrame([row])
 
-
 # This is where the UI code for our streamlit app lives. The code above was simply loading in the artifacts
-# -----------------------------
-st.title("MPG Prediction Demo")
-st.caption("Manual input + pick a real vehicle row, then compare model predictions + feature importance.")
+def mpg_color(mpg):
+    if mpg < 20: return "#ff4444"
+    if mpg < 35: return "#ffaa00"
+    return "#00ff9d"
 
-tab_manual, tab_pick = st.tabs(["Manual Inputs", "Pick from vehicles.csv"])
+def plot_gauge(pred_mpg, model_name):
+    color = mpg_color(pred_mpg)
+    fig = go.Figure(go.Indicator(
+        mode="gauge+number",
+        value=pred_mpg,
+        gauge={
+            "axis": {"range": [0, 120], "tickcolor": "#555", "tickfont": {"color": "#888"}},
+            "bar": {"color": color, "thickness": 0.3},
+            "bgcolor": "#111",
+            "borderwidth": 0,
+            "steps": [
+                {"range": [0, 20],   "color": "#1f0f0f"},
+                {"range": [20, 35],  "color": "#1f1a0a"},
+                {"range": [35, 120], "color": "#0a1f14"},
+            ],
+            "threshold": {"line": {"color": "white", "width": 2}, "thickness": 0.75, "value": 25},
+        },
+        title={"text": model_name, "font": {"color": "#888", "size": 13}},
+        number={"suffix": " MPG", "font": {"size": 52, "color": color}},
+    ))
+    fig.update_layout(height=260, margin=dict(t=40, b=0, l=30, r=30),
+                      paper_bgcolor="#0d0d0d", font_color="#f0ede6")
+    return fig
+
+def plot_importance(imp_series, xlabel, top_k):
+    imp = imp_series.head(top_k)
+    colors = ["#00ff9d" if v >= 0 else "#ff4444" for v in imp.values[::-1]]
+    fig = go.Figure(go.Bar(
+        x=imp.values[::-1], y=imp.index[::-1],
+        orientation="h", marker_color=colors, marker_line_width=0,
+    ))
+    fig.update_layout(
+        paper_bgcolor="#0d0d0d", plot_bgcolor="#111", font_color="#f0ede6",
+        height=max(300, top_k * 22),
+        xaxis=dict(title=xlabel, gridcolor="#222", zeroline=True, zerolinecolor="#444"),
+        yaxis=dict(gridcolor="#222"),
+        margin=dict(l=10, r=10, t=10, b=10),
+    )
+    return fig
+
+def plot_model_comparison(preds_df, actual=None):
+    df = preds_df.dropna().copy()
+    fig = go.Figure(go.Bar(
+        x=df["Model"], y=df["Predicted MPG"],
+        marker_color=[mpg_color(v) for v in df["Predicted MPG"]],
+        marker_line_width=0,
+        text=df["Predicted MPG"].round(1),
+        textposition="outside", textfont=dict(color="#f0ede6"),
+    ))
+    if actual is not None and not pd.isna(actual):
+        fig.add_hline(y=actual, line_dash="dash", line_color="white", line_width=1.5,
+                      annotation_text=f"  Actual: {actual:.1f}", annotation_font_color="white")
+    fig.update_layout(
+        paper_bgcolor="#0d0d0d", plot_bgcolor="#111", font_color="#f0ede6", height=300,
+        yaxis=dict(title="MPG", gridcolor="#222"),
+        xaxis=dict(gridcolor="#222"),
+        margin=dict(l=10, r=10, t=20, b=10),
+        showlegend=False,
+    )
+    return fig
+
+# Here, use custom CSS & HTML to style streamlit app's internal components (theming basically)
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;500&display=swap');
+html, body, [class*="css"] { font-family: 'DM Sans', sans-serif; }
+h1, h2, h3, h4 { font-family: 'Space Mono', monospace !important; letter-spacing: -0.5px; }
+[data-testid="stMetric"] {
+    background: #1a1a1a; border: 1px solid #2a2a2a;
+    border-radius: 10px; padding: 1rem 1.25rem;
+}
+[data-testid="stMetricValue"] { font-family: 'Space Mono', monospace !important; color: white !important; }
+[data-testid="stMetricLabel"] { color: white !important; }
+div[data-testid="stDataFrame"] { border-radius: 8px; overflow: hidden; }
+.stRadio > div > label {
+    background: #1a1a1a; border: 1px solid #2a2a2a; border-radius: 6px;
+    padding: 0.3rem 0.75rem; font-size: 0.8rem;
+    font-family: 'Space Mono', monospace; transition: border-color 0.2s;
+}
+.stRadio > div > label:hover { border-color: #00ff9d; }
+.block-container { padding-top: 2rem; }
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("""
+<div style='border-bottom:1px solid #2a2a2a; padding-bottom:1rem; margin-bottom:1.5rem;'>
+    <span style='font-family:Space Mono; font-size:0.65rem; color:#00ff9d; letter-spacing:4px;'>ECS 171 · MACHINE LEARNING</span>
+    <h1 style='font-family:Space Mono; font-size:2.6rem; margin:0.2rem 0 0.1rem; color:#f0ede6;'>MPG Predictor</h1>
+    <p style='color:#666; font-size:0.9rem; margin:0;'>Compare 5 regression models across 40,000+ EPA-rated vehicles in real time.</p>
+</div>
+""", unsafe_allow_html=True)
+
+tab_manual, tab_pick = st.tabs(["✦ Manual Inputs", "✦ Pick from Dataset"])
+
 
 # The manual inputs tab
 with tab_manual:
-    left, right = st.columns([1, 1])
+    left, right = st.columns([1, 1], gap="large")
 
     with left:
-        st.subheader("Inputs")
+        st.subheader("Vehicle Parameters")
 
         # This is a slider helper that uses loaded_row defaults, if present
         def slider(col, default=None, key=None):
             if "loaded_row" in st.session_state and col in st.session_state["loaded_row"]:
                 default = st.session_state["loaded_row"][col]
-
             if col not in ranges.index:
                 val = float(default) if default is not None and not pd.isna(default) else 0.0
                 return st.number_input(col, value=val, key=key)
-
-            mn = float(ranges.loc[col, "min"])
-            mx = float(ranges.loc[col, "max"])
-
+            mn, mx = float(ranges.loc[col, "min"]), float(ranges.loc[col, "max"])
             if default is None or pd.isna(default):
                 default = (mn + mx) / 2.0
-            default = clamp_to_range(col, default)
+            return st.slider(col, mn, mx, float(clamp_to_range(col, default)), key=key)
 
-            return st.slider(col, mn, mx, float(default), key=key)
+        num_inputs = {col: slider(col, key=f"num_{col}") for col in numeric_features}
 
         # This is the numeric inputs slider
         num_inputs = {}
@@ -183,8 +252,7 @@ with tab_manual:
                 cat_inputs[col] = st.text_input(col, value=loaded_val or "", key=f"cat_{col}")
             else:
                 default_val = loaded_val if loaded_val in opts else opts[0]
-                idx = opts.index(default_val) if default_val in opts else 0
-                cat_inputs[col] = st.selectbox(col, options=opts, index=idx, key=f"cat_{col}")
+                cat_inputs[col] = st.selectbox(col, options=opts, index=opts.index(default_val) if default_val in opts else 0, key=f"cat_{col}")
 
         # Building X_user
         row = {**num_inputs, **cat_inputs}
@@ -192,35 +260,35 @@ with tab_manual:
 
     with right:
         st.subheader("Predictions")
-
         model_names = list(models.keys())
         selected = st.radio("Primary model", model_names, horizontal=True)
 
         results_df = predict_all_models(X_user)
         selected_pred = float(results_df.loc[results_df["Model"] == selected, "Predicted MPG"].values[0])
 
-        st.metric(label=f"{selected} predicted MPG", value=f"{selected_pred:.2f}")
-        st.write("**All models:**")
-        st.dataframe(results_df, use_container_width=True)
+        st.plotly_chart(plot_gauge(selected_pred, selected), use_container_width=True)
 
-        st.subheader("Feature importance")
-        top_k = st.slider("Top K", 5, 30, 15)
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Predicted MPG", f"{selected_pred:.1f}")
+        c2.metric("Efficiency", "High ↑" if selected_pred >= 28 else ("Mid →" if selected_pred >= 20 else "Low ↓"))
+        c3.metric("Models Loaded", len(models))
 
+        st.markdown("<br>", unsafe_allow_html=True)
+        st.subheader("All Models")
+        st.plotly_chart(plot_model_comparison(results_df), use_container_width=True)
+
+        st.subheader("Feature Importance")
+        top_k = st.slider("Top K features", 5, 30, 15)
         imp_series, xlabel = get_importance_series(models[selected])
         if imp_series.empty:
-            st.info("This model type does not expose coefficients/importances.")
+            st.info("This model type does not expose feature importances.")
         else:
-            imp_series = imp_series.head(top_k)
-            fig, ax = plt.subplots()
-            ax.barh(imp_series.index[::-1], imp_series.values[::-1])
-            ax.set_xlabel(xlabel)
-            ax.set_ylabel("Feature")
-            st.pyplot(fig)
+            st.plotly_chart(plot_importance(imp_series, xlabel, top_k), use_container_width=True)
 
 
 # UI for if the user wants to pick from the vehicles.csv Tab
 with tab_pick:
-    st.subheader("Pick a real vehicle row to auto-fill Manual Inputs")
+    st.subheader("Pick a Real Vehicle")
 
     if not os.path.exists(VEHICLES_CSV):
         st.error("vehicles.csv not found next to app.py.")
@@ -232,7 +300,6 @@ with tab_pick:
     if TARGET in df.columns:
         df = df.dropna(subset=[TARGET])
         df = df[df[TARGET] > 0]
-
     df = df.reset_index(drop=True)
 
     # Choose by row index here
@@ -241,47 +308,49 @@ with tab_pick:
 
     # Here we display/show what car it is (all the necessary stats/details)
     display_cols = [c for c in ["year", "make", "model", "VClass", "trany", "drive", "fuelType1"] if c in df.columns]
-    st.write("**Selected vehicle:**")
-    st.write({c: sample.get(c, None) for c in display_cols})
-
     actual = float(sample[TARGET]) if TARGET in sample and not pd.isna(sample[TARGET]) else np.nan
-    st.write(f"**Actual MPG (comb08):** {actual:.2f}" if not pd.isna(actual) else "**Actual MPG (comb08):** N/A")
 
-    # Build model input row (compute ratios from raw columns)
-    # Building model input row: we're computing ratios from raw columns here
+    info_cols = st.columns(len(display_cols))
+    for i, col in enumerate(display_cols):
+        info_cols[i].metric(col.capitalize(), str(sample.get(col, "—")))
+
+    st.markdown("<br>", unsafe_allow_html=True)
+
     ratios = compute_ratios_from_row(sample)
     row = {}
 
     # Numeric and ratio columns
     for col in numeric_features:
-        if col in RATIO_COLS:
-            row[col] = ratios.get(col, np.nan)
-        else:
-            row[col] = sample.get(col, np.nan)
-
+        row[col] = ratios.get(col, np.nan) if col in RATIO_COLS else sample.get(col, np.nan)
     # Categorical features: basically strings
     for col in categorical_features:
         v = sample.get(col, "")
         row[col] = "" if pd.isna(v) else str(v)
 
     X_one = build_X_from_row_dict(row)
-
-    st.write("### Predictions for this vehicle")
     preds_df = predict_all_models(X_one)
-    st.dataframe(preds_df, use_container_width=True)
 
-    if not pd.isna(actual):
-        tmp = preds_df.copy()
-        tmp["Actual MPG"] = actual
-        tmp["Abs Error"] = (tmp["Predicted MPG"] - actual).abs()
-        st.write("### Errors vs actual")
-        st.dataframe(tmp.sort_values("Abs Error"), use_container_width=True)
+    left2, right2 = st.columns([1, 1], gap="large")
 
-    st.write("---")
-    st.subheader("Load this example into Manual Inputs")
-    if st.button("Load into input grid"):
-        # Store the row for defaults then rerun, ensuring we show updated inforamation
-        # The manual tab reads st.session_state["loaded_row"] during widget creation
+    with left2:
+        st.subheader("Model Predictions vs Actual")
+        st.plotly_chart(plot_model_comparison(preds_df, actual=actual), use_container_width=True)
+
+    with right2:
+        st.subheader("Error Breakdown")
+        if not pd.isna(actual):
+            tmp = preds_df.copy()
+            tmp["Actual MPG"] = actual
+            tmp["Abs Error"] = (tmp["Predicted MPG"] - actual).abs().round(2)
+            tmp["% Error"] = ((tmp["Abs Error"] / actual) * 100).round(1).astype(str) + "%"
+            st.dataframe(tmp.sort_values("Abs Error").reset_index(drop=True), use_container_width=True, hide_index=True)
+            best = tmp.sort_values("Abs Error").iloc[0]
+            st.success(f"Best prediction: **{best['Model']}** with {best['Abs Error']:.2f} MPG error")
+        else:
+            st.dataframe(preds_df, use_container_width=True, hide_index=True)
+
+    st.markdown("---")
+    if st.button("⟵ Load into Manual Inputs", use_container_width=False):
         st.session_state["loaded_row"] = row
-        st.success("Loaded! Switching to Manual Inputs (use the tab).")
+        st.success("Loaded! Switch to the Manual Inputs tab.")
         st.rerun()
