@@ -117,7 +117,7 @@ def build_X_from_row_dict(row):
 # This is where the UI code for our streamlit app lives. The code above was simply loading in the artifacts
 def mpg_color(mpg):
     if mpg < 20: return "#ff4444"
-    if mpg < 35: return "#ffaa00"
+    if mpg < 28: return "#ffaa00"
     return "#00ff9d"
 
 def plot_gauge(pred_mpg, model_name):
@@ -232,7 +232,10 @@ with tab_manual:
             mn, mx = float(ranges.loc[col, "min"]), float(ranges.loc[col, "max"])
             if default is None or pd.isna(default):
                 default = (mn + mx) / 2.0
-            return st.slider(col, mn, mx, float(clamp_to_range(col, default)), key=key)
+            val = st.slider(col, mn, mx, float(clamp_to_range(col, default)), key=key)
+            if col in ["year", "cylinders"]:
+                return int(val)
+            return val
 
         num_inputs = {col: slider(col, key=f"num_{col}") for col in numeric_features}
 
