@@ -211,7 +211,7 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-tab_manual, tab_pick = st.tabs(["✦ Manual Inputs", "✦ Pick from Dataset"])
+tab_manual, tab_pick = st.tabs(["✦ Manual Inputs", "✦ Pick from Unseen Test Data"])
 
 
 # The manual inputs tab
@@ -235,8 +235,6 @@ with tab_manual:
             if col in ["year", "cylinders"]:
                 return int(val)
             return val
-
-        num_inputs = {col: slider(col, key=f"num_{col}") for col in numeric_features}
 
         # This is the numeric inputs slider
         num_inputs = {}
@@ -290,19 +288,37 @@ with tab_manual:
 
 # UI for if the user wants to pick from the vehicles.csv Tab
 with tab_pick:
-    st.subheader("Pick a Real Vehicle")
+    st.subheader("Pick an Unseen Vehicle from the Test Set")
 
     if not os.path.exists(VEHICLES_CSV):
         st.error("vehicles.csv not found next to app.py.")
         st.stop()
 
     df = pd.read_csv(VEHICLES_CSV, low_memory=False)
-
-    # keep only valid target rows: we don't really need the rest
+    
+    # Here, we pretty much have to replicate train.py preprocessing to filter to strictly unseen data
     if TARGET in df.columns:
         df = df.dropna(subset=[TARGET])
         df = df[df[TARGET] > 0]
-    df = df.reset_index(drop=True)
+        
+    model_df = df.copy()
+    if "displ" in model_df.columns: model_df.loc[model_df["displ"] == 0, "displ"] = np.nan
+    if "cylinders" in model_df.columns: model_df.loc[model_df["cylinders"] == 0, "cylinders"] = np.nan
+    if "hpv" in model_df.columns: model_df.loc[model_df["hpv"] == 0, "hpv"] = np.nan
+
+    model_df["hp_per_liter"] = model_df["hpv"] / model_df["displ"]
+    model_df["liter_per_cyl"] = model_df["displ"] / model_df["cylinders"]
+    model_df["hp_per_cyl"] = model_df["hpv"] / model_df["cylinders"]
+
+    ratio_cols = ["hp_per_liter", "liter_per_cyl", "hp_per_cyl"]
+    model_df = model_df.dropna(subset=ratio_cols + [TARGET])
+
+    from sklearn.model_selection import train_test_split
+    # Split using the same parameters as train.py to get the exact 20% test set
+    _, test_df = train_test_split(model_df, test_size=0.20, random_state=42)
+    
+    # We only expose the unseen test_df in the tab
+    df = df.loc[test_df.index].reset_index(drop=True)
 
     # Choose by row index here
     idx = st.number_input("Row index", min_value=0, max_value=max(0, len(df) - 1), value=0, step=1)
